@@ -5,246 +5,270 @@ description: >-
   serveur.
 ---
 
-# 🧷 Règlement In-Game
+# 🧷 Règlement En-Jeu
 
 {% hint style="danger" %}
 Le règlement est susceptible de changer à tout moment sans préavis, nous vous invitons à le consulter régulièrement.
 {% endhint %}
 
-## <mark style="color:orange;">Partie I : Les Joueurs</mark>
+***
 
-### <mark style="color:orange;">Article A : Responsabilités</mark>
+## 📜 Règlement du serveur **Linesia**
 
-* Vous êtes entièrement **responsable de votre compte** Minecraft, ainsi que de votre mot de passe. Il est interdit de donner ou de prêter son compte ainsi que son mot de passe à une personne tierce. Nous ne prenons en aucun cas une part de responsabilité si une personne autre que vous se connecte dessus. Si une règle n’est pas respectée par votre compte même si ce n’est pas vous dessus, une **sanction adéquate sera mise en place**.
-* Les pseudonymes (racistes, insultants, politiques, homophobes...) et skins inappropriés (politiques, nudités…) ne sont pas acceptés. De même pour vos items ou familiers renommés.
-* Votre nick (surnom disponible avec un grade) doit également respecter ces règles. De plus, il est interdit d'utiliser votre surnom afin de faire de la pub pour votre chaine youtube, de stream ou à but d'usurper l'identité d'un autre joueur, un membre du staff ou une personne connue.
-* Nous ne prenons pas en charge les transferts de compte.
-* **Le contournement de mute ou de bannissement est strictement interdite.**
-  * Il est de votre responsabilité de respecter notre règlement et d’accepter les sanctions qui vous sont attribuées.\
-    Si vous êtes surpris en train d’éviter une sanction par l’un des moyens suivants, la durée de votre mute/bannissement sera doublée :
-    * Double compte / autre joueurs
-    * Livres/Pancarte/Item dans le /ah
-    * Renommer des objets dans l'hôtel des ventes
-    * Tout autre moyen non listé (à l’appréciation du staff)
+⚠️ **Veuillez lire attentivement l'ensemble du règlement ci-dessous.**\
+Tout joueur se connectant sur notre serveur est considéré comme ayant pris connaissance et accepté ce règlement.\
+En cas de non-respect, des **sanctions** pourront être appliquées.
 
-### <mark style="color:orange;">Article B : Le Discord</mark>
+👉 Ce règlement est susceptible d'être modifié à tout moment. Nous vous invitons à le consulter régulièrement.
 
-* MinePiece a pour moyen de communication principal son serveur Discord. L’accès y est donc fortement recommandé pour avoir les informations des mises à jour ou autres informations importantes.
-* Pour tout problème, toute question, toute suggestion ou rapport de bugs, nous vous invitons à vous rendre sur cette plateforme.
-* Des moyens de support, à la fois vocaux et écrits, sont disponibles sur le serveur Discord.
-* **Le règlement en jeu s’applique également sur le serveur Discord que ce soit en discussion ou en vocal.**
+***
 
-### <mark style="color:orange;">Article C : Les Remboursements</mark>
+## 🧾 Principes généraux
 
-* Les demandes de remboursement se font par tickets sur le serveur Discord.
-* Nous ne remboursons pas les pertes liées aux items non reçus par manque de place dans l’inventaire, cela est aussi valable pour les clés de vote ainsi que pour vos achats.
-* Seules les pertes liées à un problème serveur sont remboursées.
-* Les pertes dues à une erreur d’inattention seront refusées (pertes dues au clearlag, jeter un item dans la lave, etc.).
-* Un bannissement temporaire ou définitif vous privera de tous vos avantages jusqu'à la fin (s'il y en a une) de la sanction. Aucun transfert ne sera possible durant la durée d'une sanction et tous vos "biens" en jeu sont gelés.
-* Si vous n'avez pas les preuves suffisantes, votre demande de remboursement peut être refusée.
+✍️ Tous les utilisateurs s’exprimant dans les chats du serveur Linesia doivent faire un minimum attention à leur **orthographe**.\
+Cela permet de garantir des échanges clairs et respectueux entre les joueurs.\
+🧠 Les troubles tels que la **dyslexie**, la **dysorthographie**, etc., ne sont évidemment pas sanctionnés.
 
-{% hint style="info" %}
-Pensez à régulièrement prendre en vidéo/photo votre inventaire/île/argent.
-{% endhint %}
+👤 Chaque joueur est le **seul responsable de l’utilisation de son compte**.\
+➡️ Peu importe qui l’utilise (ami, membre de la famille, etc.), vous en assumez toutes les conséquences.\
+🔒 En cas de vol, de prêt de compte ou d’usage abusif, le staff de Linesia **ne pourra pas intervenir ni annuler une sanction**.\
+⚠️ Un compte est considéré comme personnel : **ne le prêtez jamais**.
 
-### <mark style="color:orange;">Article D : Les Alliances d'îles</mark>
+🛡️ Si un membre du **staff** se montre injurieux, vulgaire, violent ou abuse de ses pouvoirs envers les joueurs, il est impératif de contacter un **responsable ou supérieur** via un ticket administratif.
 
-Toute forme d’alliance entre îles est strictement interdite dès lors qu’elle a pour but d’obtenir un avantage dans le **classement des îles** ou dans les **Avants-Postes**.\
-Cela inclut notamment le partage d’items de niveau du mois, d’argent, ou de toute autre ressource susceptible d’influencer le classement d’une île.
+⚠️ Cette liste **n’est pas exhaustive**.\
+Une sanction peut être appliquée même si le motif ne figure pas explicitement.\
+Tout comportement, pseudonyme ou action jugé déplacé peut entraîner une sanction.
 
-Il est également interdit d’utiliser une île tierce dans le but de **contourner les limites techniques** de votre propre île (ex : nombre de hoppers, limite de joueurs, shops, etc.), y compris via l’usage de double comptes.
+***
 
-Les alliances en **PvP** ou dans les **zones d’Avants-Postes** sont également interdites, quelle que soit leur forme.
+## 💬 1. CHAT IG / DISCORD
 
-Tout abus ou contournement de ces règles entraînera une sanction adaptée à la gravité de la situation.
+Le non-respect des règles lors de votre passage sur Linesia peut entraîner une sanction, allant d’un **mute** dans le chat à des mesures plus sévères.
 
-## <mark style="color:orange;">Partie II : Le Gameplay</mark>
+🔹 **Flood**\
+➡️ L’envoi à au moins deux reprises de caractères incompréhensibles (`uzhdusjsk`) ou l’utilisation excessive de signes de ponctuation (`!!!!!!!`) dans le but de surcharger le chat.\
+⏰ Sanction : **mute 30 minutes**
 
-### <mark style="color:orange;">Article A : Interactions entre joueurs</mark>
+🔹 **Spam**\
+➡️ L’envoi du même message trois fois ou plus en peu de temps.\
+⏰ Sanction : **mute 30 minutes**
 
-* Les interactions entre les joueurs doivent être effectuées de manière respectueuse et bienveillante.
-* Les arnaques, les pillages, les vols, les griefs, les trahisons et toutes autres actions pouvant nuire à l'expérience de jeu des autres joueurs sont interdits.
-  * Il est inclus dans les arnaques : le fait de tromper un joueur dans une vente d'item quelconque.&#x20;
-    * Par exemple, il est interdit de vendre deux clés au prix lambdas, et une milieu une beaucoup plus chère.
-    * Il est interdit de faire monter intentionnellement le prix d'un item dans le but de tromper les autres joueurs en faisant de l'achat/revente entre deux personnes.
-    * Et bien d'autres cas.\
-      Si vous avez un doute, faites un ticket !
-* Il est interdit de rejoindre une île, ou de faire quelconque action de bug ou utilisation de logiciels interdits dans un but de copier les farms/pattern déjà présentes sur celle-ci.
-* Le commerce inter-serveur est interdit incluant tout échange d'items, d'argent, et autres...
-* Afin de respecter le bon déroulement des combats avec les boss, il est interdit de faire quelconques action limitant les actions des autres joueurs sur ce boss (se mettre à l'intérieur de la hitbox, l'éloigner pour que sa vie se reset...)&#x20;
+🔹 **Majuscules**\
+➡️ Les messages entièrement en majuscules ne sont pas tolérés s’ils sont envoyés plus de deux fois.\
+⏰ Sanction : **mute 30 minutes**
 
-#### **Action sur une île :**&#x20;
+🔹 **Publicité**\
+➡️ Toute forme de publicité (serveur, YouTube, etc.) est strictement interdite, sauf autorisation avec le grade Influenceur.\
+⏰ Sanction : **mute 1 heure**
 
-En cas de départ volontaire d’une île, il est obligatoire de prévenir le chef de celle-ci afin d’organiser la répartition des ressources si nécessaire. Assurez-vous également de placer vos objets personnels et de valeur dans des coffres sécurisés et privatifs.
+🔹 **Provocation**\
+➡️ Toute provocation visant à rabaisser un joueur (ex. : _ez, guez, t’es nul_).\
+⏰ Sanction : **mute 1 heure**
 
-Si un joueur est banni de son île par le chef, ce dernier a l’obligation de lui restituer ses effets personnels immédiatement après le bannissement.
+🔹 **Insultes**\
+➡️ Toute insulte envers un joueur ou un membre du staff.\
+⏰ Sanction : **mute 2 heures**
 
-Toute copies de farms/constructions présentes sur l’île est strictement interdite sans l’accord explicite du chef de l’île, et ce même si vous prévoyez de quitter l’île.
+🔹 **Discrimination**\
+➡️ Racisme, sexisme, homophobie, transphobie, grossophobie, etc.\
+⏰ Sanction : **mute 48 heures**
 
-{% hint style="info" %}
-Si les preuves sont suffisantes et en fonction de la situation, le joueur fautif sera sanctionné et la victime remboursée.
-{% endhint %}
+***
 
-### <mark style="color:orange;">Article B : Actions interdites</mark>
+## 🎮 2. EN JEU
 
-Voici une liste non exhaustive des actions interdites sur le serveur :
+🔒 **DOX et DDOS**\
+➡️ Menaces ou tentatives de DDoS / divulgation d’infos personnelles (adresse, photo, IP…).\
+⛔ Sanction : **ban 999 jours**
 
-* Anti-Afk (circuit d'eau, Auto-Jump...)
-* Vente d'items contre de l'argent réel ou contre des gemmes.
-* Le tp-kill est interdit.
-* Il est interdit de poser des homes dans les îles concurrentes sans l'accord des membres de l'île.
-* La construction obscène, raciste et discriminante.
-* Il est interdit de créer des jeux de hasard/casino.
-* Tout commerce de prime/points de classement est formellement interdit. Cela inclut l’utilisation abusive d’un compte tiers permettant d’augmenter sa prime/ses points de classement.
-* La vente de cosmétiques, d’items renommés dans le but de tromper ou de faire de la pub, de fausses clés, d’items sans durabilité, de shulkers contenant des items interdits à la vente, ou encore de contrats expirés est interdite.
-* Il est interdit d'utiliser son fruit du démon sur d'autres joueurs en zone aventure ou dans les warps publiques
-* Les farms à wither sont interdites.
-* Le poser/casser est interdit.
+🐛 **Exploitation de bug**
 
-{% hint style="warning" %}
-Cette liste n'est pas exhaustive.
-{% endhint %}
+* Bug mineur : **ban temporaire (jours/semaines)**
+* Bug majeur (avantage significatif) : **ban permanent / blacklist**
 
-* Vous devez progresser dans votre métier et votre pass de manière classique, il est donc interdit d’exploiter un bug pour augmenter votre métier et pass.
+💸 **Vente de stuff**\
+➡️ La vente de stuff contre de l’argent réel, du Discord Nitro ou tout service extérieur est interdite.\
+⛔ Sanction : **ban permanent (999 jours)**
 
-### <mark style="color:orange;">Article C : Le pvp, les duels et MarineFord</mark>
+👥 **Double compte**\
+➡️ Autorisé uniquement pour rester AFK en ferme.\
+🚫 Interdit pour contourner un ban, arnaquer, dupliquer, etc.\
+⛔ Sanction : **ban permanent (999 jours)**
 
-* Interdiction de faire équipe avec d'autres joueurs ou d'autres iles.
-* La triche est évidemment interdite, cf actions interdites.
-* Il est interdit de camper dans un coin de la map, ou dans des AP non pris.
-* La déconnexion et les téléportations en zone de combat sont interdites.
-* Interdiction de mentir sur son stuff pour un /duel
-* Interdiction d'utiliser tous moyens pour fuir un combat.
-* Les usebugs sont interdits et le staff se réserve le droit de choisir la durée de la sanction appropriée en fonction du usebug.
-* Le retour en zone sécurisée pendant un combat est sanctionné.
-* Interdiction d'utiliser quelconques commandes de téléportation (/back, /tpa, /tpahere...) pour aller ou retourner sur un lieu de combat
-* Il est interdit d'utiliser son fruit du démon hors zone pvp, pour tuer d'autres joueurs.
+⚡ **Cheats et tricheries**\
+➡️ Toute forme de triche est interdite : auto-click, macros, reach, manette-souris, packs avantageux, hitbox modifiée…\
+⏰ Sanction : **ban 60 jours**\
+👉 Réduction possible de 15 jours si le joueur avoue avant la vérification.
 
-### <mark style="color:orange;">Article D : Utilisation de la Redstone</mark>
+👥 **Complicité de triche**\
+➡️ Aider un tricheur ou fermer les yeux.\
+⏰ Sanction : **ban 30 jours**
 
-* Les usines dites à "0 ticks" et les machines volantes sont interdites.
-* Les machines créant des lags, volontairement ou non, sont interdites.
-* Il est interdit de farmer à l'aide ou dans un véhicule (wagons/bateau/etc).&#x20;
-* Les clocks trop rapides ou les systèmes conséquents et mal optimisés sont interdits.
-  * Il est demandé par faciliter d'avoir un système on/off sur vos farm à redstone.
-* Les trieurs d'items ne possédant pas de système pour détruire les objets automatiquement (avec de la lave) pourront se faire enlever par la modération.
+📢 **Promotion de cheats**\
+⏰ Sanction : **ban 60 jours**
 
-{% hint style="warning" %}
-Si vous avez un doute sur l'utilisation de votre farm, merci de créer un ticket. Une farm étant estimée comme incorrecte pourra se faire supprimer par le staff.
-{% endhint %}
+🌐 **Crash connexion**\
+➡️ Provoquer un lag pour s’échapper ou accéder à une zone.\
+⏰ Sanction : **ban 15 jours + stuff rendu**
 
-{% hint style="danger" %}
-Si votre système/machine ne respecte pas les règles du serveur il sera supprimé sans remboursement.
-{% endhint %}
+⚔️ **Trahison**\
+➡️ Vol d’objets d’une faction (sticks, armures, etc.).\
+⏰ Sanction : **ban 15 à 30 jours**
 
-### <mark style="color:orange;">Article E : Les Mods autorisés</mark>
+🎣 **AFK Minage / Pêche / Monstre**\
+➡️ Interdit sans répondre à un appel staff.\
+⏰ Sanction : **ban 5 jours**
 
-* Tous les mods ne donnant pas d'avantages sur les autres joueurs tels que :
-  * Optifine, Minimap, ReplayMod (Uniquement pour Record)
-  * Badlion / Lunar / Labymod
-    * Il est évident que l'ensemble des mods présents dans ces clients ne sont pas autorisés, veuillez vous référer à la liste des “Mods interdits" ci-dessous ainsi qu'aux "actions interdites" sur le serveur.
-  * Schematica (Sans le mode printer) / Litematica
-  * Toggle Sneak/Sprint
+🎭 **Arnaque**\
+➡️ Tromper un joueur (ex. : vendre un lingot comme minerai rare).\
+⏰ Sanction : **ban 10 jours**
 
-Si un mod n'apparaît pas dans cette liste, demandez l'accord d'un Staff.
+🔪 **Freekill**\
+➡️ Tuer un joueur +4 fois en <10 min.\
+⏰ Sanction : **ban 10 jours + clear gains**
 
-### <mark style="color:orange;">Article F : Les Mods interdits</mark>
+🪤 **Use bug**\
+➡️ Exploitation de portillons, portes, bedrock, etc.\
+⏰ Sanction : **ban 5 jours + stuff rendu**
 
-* **Tous les mods donnant un avantage sur les autres joueurs :**
-  * X-Ray / FreeCam
-  * Schematica Printer & Easy Place & copy/paste
-  * FlyMod
-  * AutoClick / AutoMine / AutoPêche / AutoJump / AutoSell / Macros / BindClick / Script / …&#x20;
-  * AutoTools
+## 🪤 Traps & Combat
 
-{% hint style="warning" %}
-Cette liste n'est pas exhaustive. Si vous avez un doute sur l'utilisation d'un mod, merci de créer un ticket.
-{% endhint %}
+🔴 **Trap No Heal**\
+➡️ Interdit de faire des traps empêchant la régénération (tables de craft, portillons placés au-dessus de toiles d’araignée, etc.).
 
-### <mark style="color:orange;">Article G : Les Doubles-Comptes</mark>
+* Les traps ne doivent plus avoir de portillons au milieu.
+* Se soigner en regardant le ciel n’est pas valide.\
+  ⏰ Sanction : **clear de la trap + ban 5 jours**
 
-* Les doubles-comptes sont limités à 1 par utilisateur.
-* Les doubles comptes ne sont pas acceptés dans les classements, tous évènements confondus, ainsi que dans le vote.
-* Il n’est pas possible de récupérer les différentes récompenses des évents grâce à vos doubles comptes ou de farmer grâce à celui-ci (calendrier, récompenses de jobs…).
-* L’utilisation d’un double compte est dans l’unique but de recommencer une partie ou pour AFK, mais il est interdit de boost son compte principal (Items / Argent / autres).
-* Jouer sur un double compte alors que son compte principal est banni, ou inversement, est interdit. En cas de non-respect de cette règle, le temps de la sanction initiale sera doublé et plus si récidives.
-* Il est interdit de voter avec deux comptes différents pour le serveur.
+🌾 **Farm dans une Trap**\
+➡️ L’utilisation de spawners ou de cultures dans une APS est interdite.
 
-{% hint style="info" %}
-Si plusieurs personnes physiques sont sur la même IP, merci de le signaler à un membre de l'équipe de MinePiece en ticket.
-{% endhint %}
+* Tous les objets ou installations utilisés pour le farm seront supprimés.
 
-### <mark style="color:orange;">Article H : L'AFK</mark>
+🕹️ **Hosting**\
+➡️ Maintenir volontairement un joueur en combat dans une trap sans lui infliger de dégâts (sans intention de le tuer).\
+⏰ Sanction : **ban 3 jours**
 
-* **Des vérifications d'AFK sont régulièrement effectuées par les Modérateurs, tout manquement à celles-ci sont passibles de sanctions, même en étant physiquement présent devant l’écran.**
-* Il est aussi interdit de contourner l'anti-AFK de quelconque manière, sous peine de sanctions.
-* Le farming/afk à l’aide de véhicules (bateaux, minecart, etc.) est interdit.
+🏃 **Back Safe Zone**\
+➡️ Se réfugier dans une zone protégée pendant un combat (perle au spawn, fuite en zone sans PVP, etc.).\
+⏰ Sanction : **ban 3 jours**
 
-### <mark style="color:orange;">Article I : Triche et Usebugs</mark>
+🧱 **Traps Alignées**\
+➡️ Il est interdit d’aligner trois traps avec des alliances (commande `/f ally`).\
+⏰ Sanction : **clear de l’AP centrale**
 
-* Les usebugs, la duplication (ainsi que la tentative de duplication) et la triche sous toutes ses formes sont prohibés sur le serveur.
-* Tous les mods ou logiciels externes donnant un avantage par rapport aux autres joueurs sont interdits.
-* **De plus, l'utilisation d'une touche autre que le clic, d'un moyen, d’une méthode ou d’un poids permettant de le bloquer pour casser et/ou poser des blocs, et utiliser des items, est totalement interdite.**
-* Etre en connaissance d’un bug majeur sur le serveur et ne pas en informer la modération dans le but d’abuser de celui-ci entrainera un bannissement définitif du serveur.
-* Le poser-casser est interdit.
+📣 **Contournement de mute**\
+➡️ Envoyer un message via un double compte ou autre méthode après avoir été mute.
 
-## <mark style="color:orange;">Partie III : Le Chat</mark>
+* Vous pouvez discuter en privé avec vos amis.\
+  ⏰ Sanction : **ban 2 jours (durée augmentée selon gravité)**
 
-### <mark style="color:orange;">Article A : Les règles générales</mark>
+🔄 **Full Back**\
+➡️ Revenir 4 fois ou plus de suite dans une trap ou un lieu de combat (même sans mourir).\
+⏰ Sanction : **ban 3 jours**
 
-* Le chat est un espace de libre échange où les discussions s'effectuent dans le respect.
-* Toute forme d'harcèlement est interdite et entraînera de très lourdes sanctions.
+🎭 **Skin inapproprié**\
+➡️ Les skins trop petits/grands, obscènes, choquants ou donnant un avantage en PVP sont interdits.
 
-### <mark style="color:orange;">Article B : Les types de messages</mark>
+* Kick immédiat.
+* Si retour sans changement : **ban 2 jours**
+* En cas de récidive : **sanction prolongée**
 
-Voici une liste non exhaustive des messages inappropriés sur le serveur :
+✏️ **Rename d’objets**\
+➡️ Interdit de renommer un item avec insultes, provocations, flood, spam, contenu obscène ou infos perso.\
+⛔ L’objet est **clear immédiatement** + ban selon gravité.
 
-* Provocation, insultes envers une personne ou une communauté.
-* Propos graves : racisme, misogynie, homophobie, transphobie, politique.
-* Propos tendancieux (politiques, religieux, conflits géopolitiques, à caractère sexuel…)
-* Troll, Obscénités
-* Spam (plusieurs messages à la suite)
-* Flood (répétitions d'un même caractère : "mdrrrrrrrrrrrr")
-* La mendicité (demander des items, prêts d'items, d'argent, etc.).
-* Réaction aux sanctions
-* Il est interdit d'usurper une identité.
-* Le spoil est prohibé
-* L’incitation au spam/flood est également prohibée sur le serveur (cela inclut des évènements de types questions/réponses dans le chat. Les réponses doivent donc être effectuées dans les messages privés de l’organisateur)
-* Les menaces, le harcèlement, l’humour noir ainsi que la divulgation d'informations privées sont interdits sur le serveur.
+🥚 **Eggtrap Event**\
+➡️ Utiliser une Eggtrap dans la zone de l’Outpost ou de l’AFK Money est interdit.\
+⏰ Sanction : **clear de la récompense + ban 2 jours**
 
-### <mark style="color:orange;">Article C : Les différentes plateformes</mark>
+🚫 **Mensonge Staff**\
+➡️ Mentir à un membre du staff (ticket ou report) pour obtenir un remboursement injustifié ou faire bannir un joueur.\
+⏰ Sanction : **ban 2 jours**
 
-* Où qu'ils soient les messages sont sanctionnables :
-  * Chat Public
-  * Chat d'île
-  * Sur des livres
-  * Messages Privés
-  * Panneaux
-  * Tout endroit en lien direct avec MinePiece
-  * Utilisation du /nick abusive
-  * Rename d’un pet ou d’un mob
-  * ...
+🎁 **Faux giveaway**\
+➡️ Organiser un faux giveaway pour piéger des joueurs (warzone ou autre).\
+⏰ Sanction : **ban 2 jours**
 
-### <mark style="color:orange;">Article D : La publicité</mark>
+⚔️ **Règle 1vs1**\
+➡️ Si deux joueurs acceptent un 1vs1 avec des règles précises (no back, no multi, no stick, etc.), le non-respect entraîne :\
+⏰ Sanction : **ban 1 jour**\
+⚠️ Attention : seules les règles **claires et précises** seront prises en compte.
 
-* La publicité pour des serveurs autres que MinePiece est interdite.
-* Vous ne devez pas citer de noms de serveurs autres que ceux de Rivrs.
-* Toute publicité pour une autre plateforme/jeu/etc est également interdite sur le serveur.
-* La publicité de son propre contenu (vidéos Youtube, chaine Twitch, etc) est interdite sur le serveur, hormis si vous disposez du grade Youtubeur, Streameur ou Partenaire.
-* Pour la publicité du jeu (pw, shops, vente, events,...) vous devez patienter **10** minutes entre chaque message.
-* Une publicité, une annonce ou même une demande se doit d’être espacée de **10** minutes par rapport à ses précédentes pour chaque île ou même pwarp.
+***
 
-### <mark style="color:orange;">Article E : Staff non présent</mark>
+## 🎧 3. Discord
 
-* Si vous êtes témoin d'une infraction, n'hésitez pas à prendre un screen.
-* Le screen doit être complet, date, heure, contexte, etc...
-* Tout abus de signalements ou de preuves falsifiées entrainera des sanctions.
+⚠️ Le règlement n’est pas exhaustif. Le staff peut sanctionner pour toute raison jugée nécessaire.
 
+📌 Règles générales dans **tous les salons (écrits et vocaux)** :
 
+* 🤝 Respect obligatoire entre tous les joueurs.
+* 🚫 Contenus **pornographiques, xénophobes, homophobes, racistes, sexistes** interdits.
+* 🖼️ Photos de profil et pseudos doivent respecter les règles du serveur. (conseillé : pseudo IG = pseudo Discord)
+* 🕵️ Usurpation d’identité interdite (photo, pseudo).
+* 📢 Publicité interdite (sauf dans les salons prévus).
+* 💸 Vente de biens liés ou non à Linesia interdite.
+* 🌐 Menaces ou actions de **DDOS / Token Grab** interdites.
+* 🔁 Spam / flood interdit.
+* 🤬 Insultes et provocations interdites.
+* 🔔 Multiples mentions interdites (ghost ping inclus).
+* 🚫 Ping un **HS (Haut Staff)** interdit sauf si c’est lui qui vous a ping.
+* 📷 Publication d’images/vidéos sans accord interdites (sauf ticket).
+* 🔗 Partage de liens hors sujet interdit.
+* 🎶 Soundboard / modificateur de voix à but de troll interdits.
+* 📣 Hurlements ou sons nuisibles interdits.
+* 🔊 Quitter/rejoindre un vocal en boucle interdit.
+* 🎥 Enregistrements audio/vidéo sans consentement interdits (sauf preuve).
 
-En vous connectant sur nos plateformes, nous considérons que vous avez lu et accepté ledit règlement, même en cas de changement de celui-ci.
+***
 
-Toute sanction sera donnée à l'entière appréciation du staff.
+## 🖥️ 4. Vérification
 
-Si vous souhaitez contester une quelconque sanction, merci de créer un ticket sur le discord. Toute contestation de sanction non recevable entraînera le doublement de celle-ci.\
-Créer un ticket pour contester la sanction d’une autre personne **ne sera pas prise en compte**.
+⚠️ Toute entrave = **ban direct**.
+
+🔧 Services obligatoirement activés :
+
+* Explorer
+* Gestionnaire des tâches
+* Temp
+* Regedit (Éditeur de registre)
+* SysMain (Prefetch)
+
+📌 Réactivation de **SysMain** :
+
+1. Ouvrir le gestionnaire des tâches
+2. Aller dans l’onglet _Services_
+3. Chercher **SysMain**
+4. Clic droit → **Démarrer**
+
+🚫 Interdictions :
+
+* Modifier logiciels souris/clavier avant vérif.
+* Avoir un **debounce time < 8**.
+* Vider/modifier la corbeille.
+* Faire un nettoyage de registre.
+* Lancer un logiciel de nettoyage (CCleaner, AdwCleaner…).
+* Troll ou perturber la vérification.
+
+✅ Droit de refuser la vérification → mais entraîne **ban direct**.
+
+💻 Si un logiciel de triche est utilisé : vous devrez **redémarrer entièrement la machine** avant de rejouer.
+
+***
+
+## 📝 5. Note
+
+* 📹 Toute demande de remboursement doit être accompagnée d’une **preuve vidéo** (inventaire visible).
+* ❌ Erreurs humaines non remboursables.
+* 👑 Si le leader d’une faction est banni → un officier devient chef (ou un membre choisi avec accord du staff).
+* 🤝 Participer à une infraction = complicité = **même sanction**.
+* 🧨 Être présent dans une zone de duplication ou avoir un home = **ban**.
+* 🔗 Refus de connexion au Discord = **ban permanent**.
+* 🚫 Contournement de sanction = aggravation.
+* 📢 Harcèlement sanctionné sous toutes ses formes.
+* 🎫 Tickets non conformes/irrespectueux/avec spam ping = **fermeture + mute** en cas de récidive.
+* 🎮 Events joueurs autorisés (sans intervention staff). Toute pub doit être validée. Débordement = sanction organisateurs.
+* 👤 Prêt de compte = responsabilité du joueur.
+* ⚠️ Chantage lié au règlement = sanction par un **HS**.

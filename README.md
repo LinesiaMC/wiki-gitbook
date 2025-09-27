@@ -13,22 +13,31 @@ Vous y retrouverez <mark style="color:purple;">**toutes les fonctionnalités du 
 
 ***
 
-## 📖 Plan du Wiki – Serveur Linesia
+<h2 align="center">📖 Plan du Wiki – Serveur Linesia</h2>
 
-### 🔹 Informations
+## 🔹 Informations
+
+
 
 * Se connecter
 * Boutique
 * Comment voter
 * Discord du serveur
-* Bot de jeu
+* Bot de jeu\
 
-### 📜 Règlements
+
+## 📜 Règlements
+
+
 
 * Règlement IG
-* Règlement Discord
+* Règlement Discord\
+  \
 
-### ⚔️ GamePlay
+
+## ⚔️ GamePlay
+
+
 
 * Bien débuter
 * Les Paliers
@@ -40,27 +49,39 @@ Vous y retrouverez <mark style="color:purple;">**toutes les fonctionnalités du 
 * Farm
 * Pêche
 * PvP
-* Quêtes
+* Quêtes\
+  \
 
-### 💎 Équipements
+
+## 💎 Équipements
+
+
 
 * Améthyste
 * Rubis
 * Onyx
 * Farm
 * Feu
-* Glace
+* Glace\
+  \
 
-### 🎉 Évènements
+
+## 🎉 Évènements
+
+
 
 * Domination
 * Nexus
 * Totem
 * Chest-refill
 * AFK-money
-* Outpost
+* Outpost\
+  \
 
-### ⌨️ Commandes
+
+## ⌨️ Commandes
+
+
 
 * Faction
 * Stats
@@ -71,38 +92,35 @@ Vous y retrouverez <mark style="color:purple;">**toutes les fonctionnalités du 
 * HDV
 * Money
 * Tokens
-* Settings
+* Settings\
+  \
 
-### ⭐ Grades
+
+## ⭐ Grades
+
+
 
 * VIP
 * Premium
-* Premium+
+* Premium+\
+  \
 
-### 🪄 Sticks
 
-* Freeze
-* Anti-Perle
-* Anti-Item
-* Anti-Build
-* Téléportation
-* View
-* Size
-* Foudre
-* Anti-Back
-* Effect
-* God
-* Repair
+## 🎁 Boxs
 
-### 🎁 Boxs
+
 
 * Commune
 * Farm
 * Legendary
 * Glace
-* Feu
+* Feu\
+  \
 
-### 🧩 Objets
+
+## 🧩 Objets
+
+
 
 * Bump
 * SwitchBall
@@ -116,6 +134,7 @@ Vous y retrouverez <mark style="color:purple;">**toutes les fonctionnalités du 
 * Spawners
 * Infinite Arrow
 * Dynamite
+* Sticks
 
 ***
 

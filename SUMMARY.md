@@ -4,14 +4,14 @@
 
 ## 🧷 Informations générales
 
-* [🧷 Règlement In-Game](informations-generales/reglement-in-game.md)
-* [Contribuer](CONTRIBUTING.Md)
+* [🧷 Règlement En-Jeu](informations-generales/reglement-in-game.md)
 * [🤚 Règlement Discord](informations-generales/reglement-discord.md)
+* [❔ Questions Récurentes](informations-generales/questions-recurrentes.md)
+* [Discord](informations-generales/discord.md)
 * [⁉️ Tutoriels](informations-generales/tutoriels/README.md)
   * [➡️ Comment rejoindre MinePiece ?](informations-generales/tutoriels/comment-rejoindre-mineberry.md)
   * [📓 Comment voter pour MinePiece ?](informations-generales/tutoriels/comment-voter-pour-mineberry.md)
   * [⚖️ Retrouver le règlement](informations-generales/tutoriels/retrouver-le-reglement.md)
-* [❔ Questions Récurrentes](informations-generales/questions-recurrentes.md)
 
 ## 🎮 Gameplay - Partie générale
 
