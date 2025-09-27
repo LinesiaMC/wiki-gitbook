@@ -1,17 +1,18 @@
 ---
-description: Retrouvez ici toutes les informations pour rejoindre MinePiece
+description: Retrouvez ici toutes les informations nécéssaire pour rejoindre Linesia
 ---
 
-# ➡️ Comment rejoindre MinePiece ?
+# ➡️ Comment rejoindre Linesia ?
 
-## Bonjour à tous !
+## <mark style="color:purple;">Bonjour à tous !</mark>
 
-Si vous souhaitez rejoindre notre serveur, assurez-vous d'avoir une version Premium de Minecraft. Veuillez noter que le serveur ne prend pas en charge la version Bedrock.
+Si vous souhaitez rejoindre notre serveur, vous devrez posséder <mark style="color:purple;">Minecraft</mark>, Une version "Crack" du Jeu fonctionne également. Veuillez noter que le serveur ne prend pas en charge la version Java, Il est uniquement disponible sur <mark style="color:purple;">Bedrock</mark> !
 
-![:fleche\_mineberry:](https://cdn.discordapp.com/emojis/1021524412975026197.webp?size=96\&quality=lossless)Adresse IP : <mark style="color:yellow;">**play.minepiece.net**</mark> / Version du serveur : <mark style="color:yellow;">**1.21.4**</mark>
+![:fleche\_mineberry:](../../.gitbook/assets/logo-linesia.png)Adresse IP : <mark style="color:purple;">**play.linesia.net**</mark> / Version du serveur : <mark style="color:purple;">**1.21.101**</mark>
 
-Si vous éprouvez des difficultés pour vous connecter, n'hésitez pas à ouvrir un ticket sur notre Discord pour obtenir de l'aide. \
+Si vous éprouvez des difficultés pour vous connecter, n'hésitez pas à ouvrir un ticket sur notre Discord pour obtenir de l'aide car nous avons quelques protections concernant les connexions qui peuvent poser problème.\
 \
-![:fleche\_mineberry:](https://cdn.discordapp.com/emojis/1021524412975026197.webp?size=96\&quality=lossless)[https://discord.gg/minepiece](https://discord.gg/6H3dEh7A)
+![:fleche\_mineberry:](../../.gitbook/assets/logo-linesia.png)[https://discord.gg/linesia](https://discord.gg/linesia)
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MedalTVMinecraftBedrock20250927173234.png" alt=""><figcaption></figcaption></figure>
+

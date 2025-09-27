@@ -2,11 +2,11 @@
 description: Retrouvez ici toutes les informations concernant les caisses
 ---
 
-# 🎁 Les Caisses
+# 🎁 Le Farming
 
 Pour ajouter un <mark style="color:yellow;">**aspect aléatoire**</mark> à votre <mark style="color:yellow;">**aventure**</mark>, des <mark style="color:yellow;">**caisses**</mark> sont <mark style="color:yellow;">**disponibles**</mark> sur <mark style="color:yellow;">**MinePiece**</mark>. Certaines sont <mark style="color:yellow;">**disponibles de manière permanente**</mark> tandis que d'autres ne sont qu'<mark style="color:yellow;">**éphémères**</mark>.
 
-Pour <mark style="color:yellow;">**ouvrir ces caisses**</mark>, vous devrez vous rendre, <mark style="color:yellow;">**muni d'une clé**</mark>, au <mark style="color:yellow;">**`/spawn`**</mark>. Les <mark style="color:yellow;">**caisses**</mark> se trouveront alors sur <mark style="color:yellow;">**devant vous**</mark>. D'autres caisses sont également <mark style="color:yellow;">**dispatchées**</mark> sur les différentes [<mark style="color:orange;">**îles aventure**</mark>](../gameplay-partie-aventure/les-iles-aventure/) mais celles si s'ouvrent via la <mark style="color:yellow;">**monnaie de l'île aventure**</mark>.
+Pour <mark style="color:yellow;">**ouvrir ces caisses**</mark>, vous devrez vous rendre, <mark style="color:yellow;">**muni d'une clé**</mark>, au <mark style="color:yellow;">**`/spawn`**</mark>. Les <mark style="color:yellow;">**caisses**</mark> se trouveront alors sur <mark style="color:yellow;">**devant vous**</mark>. D'autres caisses sont également <mark style="color:yellow;">**dispatchées**</mark> sur les différentes [<mark style="color:orange;">**îles aventure**</mark>](../gameplay-les-grades/les-iles-aventure/) mais celles si s'ouvrent via la <mark style="color:yellow;">**monnaie de l'île aventure**</mark>.
 
 Il existe <mark style="color:yellow;">**différents moyens**</mark> d'obtenir des <mark style="color:yellow;">**clés**</mark> : en les <mark style="color:yellow;">**achetant dans la boutique**</mark> avec des <mark style="color:green;">**Gemmes**</mark> ou bien encore en <mark style="color:yellow;">**votant pour le serveur**</mark>.
 
@@ -19,11 +19,11 @@ Vous pouvez également récupérer une <mark style="color:yellow;">**clé aléat
 <mark style="color:yellow;">**Joueur classique**</mark>**&#x20;:** Clé East Blue : <mark style="color:yellow;">**100%**</mark>
 
 <mark style="color:yellow;">**Pirate**</mark>**&#x20;:** Clé East Blue : <mark style="color:yellow;">**50%**</mark>\
-&#x20;              Clé Grand Line : <mark style="color:yellow;">**50%**</mark>
+Clé Grand Line : <mark style="color:yellow;">**50%**</mark>
 
 <mark style="color:yellow;">**Commandant**</mark>**&#x20;:** Clé East Blue : <mark style="color:yellow;">**33,34%**</mark>\
-&#x20;                              Clé Grand Line : <mark style="color:yellow;">**33,33%**</mark>\
-&#x20;                              Clé Nouveau Monde : <mark style="color:yellow;">**33,33%**</mark>
+Clé Grand Line : <mark style="color:yellow;">**33,33%**</mark>\
+Clé Nouveau Monde : <mark style="color:yellow;">**33,33%**</mark>
 
 {% hint style="success" %}
 Au fil de votre aventure, vous pourrez récupérer des <mark style="color:yellow;">**fragments de clé**</mark>. Une fois <mark style="color:yellow;">**16 fragments**</mark> réunis, ils se combineront pour former une <mark style="color:yellow;">**clé fonctionnelle**</mark> avec le <mark style="color:yellow;">**`/convertisseur`**</mark>.
@@ -56,7 +56,7 @@ Les chances de mythique commencent à <mark style="color:red;">**augmenter à pa
 Une fois un mythique <mark style="color:red;">**obtenu**</mark>, le compteur est <mark style="color:red;">**réinitialisé**</mark>.
 
 {% hint style="info" %}
-<mark style="color:yellow;">**En résumé**</mark>**&#x20;:** le système pity vous assure que la malchance ne dure jamais <mark style="color:yellow;">**éternellement**</mark>.&#x20;
+<mark style="color:yellow;">**En résumé**</mark>**&#x20;:** le système pity vous assure que la malchance ne dure jamais <mark style="color:yellow;">**éternellement**</mark>.
 
 Les <mark style="color:yellow;">**joueurs réguliers**</mark> finissent toujours par obtenir des récompenses rares s’ils <mark style="color:yellow;">**persistent**</mark>.
 {% endhint %}

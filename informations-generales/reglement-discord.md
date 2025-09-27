@@ -8,60 +8,63 @@ description: Retrouvez ici le règlement à respecter lorsque vous parlez sur le
 Le règlement est susceptible de changer à tout moment sans préavis, nous vous invitons à le consulter régulièrement.
 {% endhint %}
 
-## <mark style="color:orange;">Partie I : Votre Profil</mark>
+***
 
-### <mark style="color:orange;">Article A : Les Images de Profil</mark>
+## &#x20;<mark style="background-color:purple;">Règlement - Discord</mark>
 
-* Votre image de profil ne doit pas faire référence à du contenu obscène ou à de la politique.
-* Les images de profil ne doivent pas être offensantes envers quelconque individu ou groupe d'individus.
-* Il est interdit d'afficher des photographies personnelles d'un joueur du serveur dans le but de s'en moquer.
+<mark style="color:purple;">**Règlement général**</mark> :
 
-### <mark style="color:orange;">Article B : Les Pseudos</mark>
+* Ce règlement n'est pas exhaustif.
+* Si une sanction est appliquée pour une raison non mentionnée, le staff se réserve le droit de le faire.
+* Cette catégorie contient les règles à respecter dans tous les salons, écrits ou vocaux.
+* Le respect est la règle principale : tous les joueurs doivent se respecter à l’écrit comme à l’oral.
 
-* Votre pseudo ne doit pas faire référence à un personnage historique ou politique.
-* Les pseudos doivent débuter par un caractère disponible sur le clavier AZERTY afin d'être mentionable.
-* Afficher les informations personnelles et privées d'un joueur dans votre pseudo est interdit.
+<mark style="color:purple;">**Contenus interdits**</mark> :
 
-### <mark style="color:orange;">Article C : Les Statuts & Descriptions</mark>
+* Contenus pornographiques, xénophobes, homophobes, racistes, sexistes.
+* Sanction : sera appliquée si infraction constatée.
 
-* Votre statut et votre description ne doivent pas faire référence à de la politique ou inciter à la haine.
-* Les liens menant vers des arnaques sont interdits dans vos descriptions.
-* Tout manque de respect envers une quelconque personne sera sanctionné.
+<mark style="color:purple;">**Pseudo et photo de profil**</mark> :
 
-## <mark style="color:orange;">Partie II : Les Salons Textuels</mark>
+* Vos photos de profil et pseudo doivent être en accord avec les règles du serveur.
+* Il est conseillé d’utiliser votre pseudo IG sur Discord.
+* L’usurpation d’identité (photo ou pseudo) est interdite.
 
-### <mark style="color:orange;">Article A : Pollution</mark>
+<mark style="color:purple;">**Publicité et ventes**</mark> :
 
-* Tout comme en jeu, le Spam et le Flood sont proscrits.
-* Il est interdit de poster des liens autres que le site de SeasonSky, l'IP du serveur ou les réseaux-sociaux du serveur.
-* Mentionner abusivement un rôle/membre est strictement interdit.
+* La publicité est totalement interdite sauf dans les salons prévus à cet effet.
+* La vente de biens liés ou non à Linesia est strictement interdite.
 
-### <mark style="color:orange;">Article B : Conduite à tenir</mark>
+<mark style="color:purple;">**Menaces et attaques**</mark> :
 
-* Vous devez évidemment discuter dans le respect avec les joueurs du serveur.
-* En ticket, toute insulte, provocation, moquerie ou fausse accusation pourra entrainer des sanctions allant jusqu'au bannissement permanent en jeu et sur Discord.
-* La politesse est de mise et particulièrement lors des dialogues avec des Staffs.&#x20;
+* Menaces ou actions de DDOS ou de Token Grab interdites.
 
-{% hint style="success" %}
-Dire "Bonjour" lors de l'ouverture d'un ticket nous rendra tout de suite plus à l'écoute :wink:
-{% endhint %}
+<mark style="color:purple;">**Spam / Flood**</mark> :
 
-### <mark style="color:orange;">Article C : Sujets</mark>
+* Envoyer plusieurs fois le même message ou les mêmes lettres dans le but de surcharger un salon est strictement interdit.
 
-* Tout comme votre profil, vos discussions ne doivent pas faire références à de la politique.
-* Vous ne devez pas manquer de respect/insulter un joueur.
-* Le racisme, l'homophobie, la xénophobie et toutes les autres formes de haines sont proscrits.
+<mark style="color:purple;">**Insultes et provocations**</mark> :
 
-## <mark style="color:orange;">Partie III : Les Salons Vocaux</mark>
+* Toutes insultes ou provocations sont strictement interdites.
 
-### <mark style="color:orange;">Article A : Conduite à tenir</mark>
+<mark style="color:purple;">**Mentions multiples**</mark> :
 
-* Comme à l'écrit, vous devez rester respectueux avec les autres joueurs.
-* Les sujets de discussion sont libres mais nous vous demandons de prendre en considération l'âge des personnes présentes dans votre salon vocal.
-* Si vous souhaitez parler en privé, des salons limités sont disponibles.
+* Les multiples mentions, y compris les ghost ping, sont interdites.
+* Ping d’un HS (Haut Staff) interdit sauf si vous êtes ping en premier par le HS.
 
-### <mark style="color:orange;">Article B : Interdictions</mark>
+<mark style="color:purple;">**Publication de médias**</mark> :
 
-* Les SoundBoards (Bruitages, musiques...) sont interdits.
-* Crier dans votre micro dans le but d'agacer vos partenaires de vocal est interdit.
-* Divulguer des informations personnelles en vocal est interdit.
+* Publication de vidéo ou d'image sans accord des personnes concernées est interdite, sauf dans le cadre d’un ticket.
+* Le partage de lien sans rapport direct avec la discussion est interdit.
+
+<mark style="color:purple;">**Soundboard et voix**</mark> :
+
+* Utilisation de SoundBoard ou modificateur de voix dans le but de troll interdit.
+* Hurlements ou sons nuisibles non tolérés.
+
+<mark style="color:purple;">**Comportement dans les vocaux**</mark> :
+
+* Quitter puis rejoindre un salon à répétition pour gêner les personnes est interdit.
+* Enregistrements audio ou vidéo sans consentement des personnes présentes sont interdits, sauf pour fournir une preuve.
+
+***

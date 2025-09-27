@@ -1,10 +1,3 @@
----
-description: >-
-  Retrouvez ici le règlement à respecter lorsque vous jouez sur Linesia. Ce
-  règlement sera considéré comme lu et approuvé une fois connecté sur le
-  serveur.
----
-
 # 🧷 Règlement En-Jeu
 
 
@@ -12,14 +5,6 @@ description: >-
 {% hint style="danger" %}
 Le règlement est susceptible de changer à tout moment sans préavis, nous vous invitons à le consulter régulièrement.
 {% endhint %}
-
-Parfait ! Je vais reprendre **tout ton règlement en entier** et le mettre dans le format que tu veux :
-
-* **Titre de la règle en violet** (`<span style="color:purple">Titre</span>`), suivi de `:`
-* Détails en **liste à puces**
-* **Un espace entre chaque règle** pour aérer
-
-Voici le règlement complet prêt à coller dans ton GitBook :
 
 ***
 
