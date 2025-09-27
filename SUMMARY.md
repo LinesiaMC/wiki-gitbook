@@ -60,9 +60,11 @@
   * [Epée en Rubis](group-1/epees/epee-en-rubis.md)
   * [Epée en Onyx](group-1/epees/epee-en-onyx.md)
 * [Minerais](group-1/minerais/README.md)
-  * [Page 1](group-1/minerais/page-1.md)
-  * [Page 2](group-1/minerais/page-2.md)
-  * [Page 3](group-1/minerais/page-3.md)
+  * [Améthyste](group-1/minerais/amethyste.md)
+  * [Rubis](group-1/minerais/rubis.md)
+  * [Onyx](group-1/minerais/onyx.md)
+  * [Glace](group-1/minerais/glace.md)
+  * [Volcanique](group-1/minerais/volcanique.md)
 
 ## 🔮 Gameplay - Les Grades
 
