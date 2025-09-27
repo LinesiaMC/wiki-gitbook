@@ -1,14 +1,14 @@
 ---
-description: Retrouvez ici le sommaire du Wiki de MinePiece
+description: Retrouvez ici le sommaire du Wiki de Linesia
 ---
 
-# 🪙 Bienvenue sur MinePiece !
+# 🪙 Bienvenue sur Linesia !
 
-Bienvenue sur le <mark style="color:yellow;">**wiki officiel du serveur MinePiece**</mark> ! Celui-ci vous sera utile tout au long de votre progression, et vous permettra une aventure sans accroc.
+Bienvenue sur le <mark style="color:purple;">**wiki officiel du serveur Linesia**</mark> ! Celui-ci vous sera utile tout au long de votre progression, et vous permettra une aventure sans accroc.
 
-Vous y retrouverez <mark style="color:yellow;">**toutes les fonctionnalités du serveur**</mark>, ainsi que <mark style="color:yellow;">**les informations utiles**</mark> liées à Mineberry.
+Vous y retrouverez <mark style="color:purple;">**toutes les fonctionnalités du serveur**</mark>, ainsi que <mark style="color:purple;">**les informations utiles**</mark> liées à <mark style="color:purple;">Linesia</mark>.
 
-## [<mark style="color:orange;">Informations Générales</mark>](broken-reference)
+## [<mark style="color:orange;">Informations Générales</mark>](broken-reference/)
 
 * [<mark style="color:orange;">**Règlement In-Game**</mark>](informations-generales/reglement-in-game.md)
 * [<mark style="color:orange;">**Règlement Discord**</mark>](informations-generales/reglement-discord.md)
@@ -18,7 +18,7 @@ Vous y retrouverez <mark style="color:yellow;">**toutes les fonctionnalités du 
   * [**Retrouver le règlement**](informations-generales/tutoriels/retrouver-le-reglement.md)
 * [<mark style="color:orange;">**Questions Récurrentes**</mark>](informations-generales/questions-recurrentes.md)
 
-## [<mark style="color:orange;">GamePlay - Partie Générale</mark>](broken-reference)
+## [<mark style="color:orange;">GamePlay - Partie Générale</mark>](broken-reference/)
 
 * [<mark style="color:orange;">**Les Équipages**</mark>](gameplay-partie-generale/les-equipages/)
   * [**Les Valeurs d'Île**](gameplay-partie-generale/les-equipages/les-valeurs-dile.md)

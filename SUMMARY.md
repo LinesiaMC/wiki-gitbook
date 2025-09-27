@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🪙 Bienvenue sur MinePiece !](README.md)
+* [🪙 Bienvenue sur Linesia !](README.md)
 
 ## 🧷 Informations générales
 
