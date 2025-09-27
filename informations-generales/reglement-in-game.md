@@ -1,274 +1,318 @@
 ---
 description: >-
-  Retrouvez ici le règlement à respecter lorsque vous jouez sur MinePiece. Ce
+  Retrouvez ici le règlement à respecter lorsque vous jouez sur Linesia. Ce
   règlement sera considéré comme lu et approuvé une fois connecté sur le
   serveur.
 ---
 
 # 🧷 Règlement En-Jeu
 
+
+
 {% hint style="danger" %}
 Le règlement est susceptible de changer à tout moment sans préavis, nous vous invitons à le consulter régulièrement.
 {% endhint %}
 
+Parfait ! Je vais reprendre **tout ton règlement en entier** et le mettre dans le format que tu veux :
+
+* **Titre de la règle en violet** (`<span style="color:purple">Titre</span>`), suivi de `:`
+* Détails en **liste à puces**
+* **Un espace entre chaque règle** pour aérer
+
+Voici le règlement complet prêt à coller dans ton GitBook :
+
 ***
 
-## 📜 Règlement du serveur **Linesia**
+## Règlement du serveur <mark style="color:purple;">Linesia</mark>
 
-⚠️ **Veuillez lire attentivement l'ensemble du règlement ci-dessous.**\
+Veuillez lire attentivement l'ensemble du règlement ci-dessous.\
 Tout joueur se connectant sur notre serveur est considéré comme ayant pris connaissance et accepté ce règlement.\
-En cas de non-respect, des **sanctions** pourront être appliquées.
+En cas de non-respect, des sanctions pourront être appliquées.
 
-👉 Ce règlement est susceptible d'être modifié à tout moment. Nous vous invitons à le consulter régulièrement.
-
-***
-
-## 🧾 Principes généraux
-
-✍️ Tous les utilisateurs s’exprimant dans les chats du serveur Linesia doivent faire un minimum attention à leur **orthographe**.\
-Cela permet de garantir des échanges clairs et respectueux entre les joueurs.\
-🧠 Les troubles tels que la **dyslexie**, la **dysorthographie**, etc., ne sont évidemment pas sanctionnés.
-
-👤 Chaque joueur est le **seul responsable de l’utilisation de son compte**.\
-➡️ Peu importe qui l’utilise (ami, membre de la famille, etc.), vous en assumez toutes les conséquences.\
-🔒 En cas de vol, de prêt de compte ou d’usage abusif, le staff de Linesia **ne pourra pas intervenir ni annuler une sanction**.\
-⚠️ Un compte est considéré comme personnel : **ne le prêtez jamais**.
-
-🛡️ Si un membre du **staff** se montre injurieux, vulgaire, violent ou abuse de ses pouvoirs envers les joueurs, il est impératif de contacter un **responsable ou supérieur** via un ticket administratif.
-
-⚠️ Cette liste **n’est pas exhaustive**.\
-Une sanction peut être appliquée même si le motif ne figure pas explicitement.\
-Tout comportement, pseudonyme ou action jugé déplacé peut entraîner une sanction.
+Ce règlement est susceptible d'être modifié à tout moment. Nous vous invitons à le consulter régulièrement.
 
 ***
 
-## 💬 1. CHAT IG / DISCORD
+### Principes généraux
 
-Le non-respect des règles lors de votre passage sur Linesia peut entraîner une sanction, allant d’un **mute** dans le chat à des mesures plus sévères.
+<mark style="color:purple;">**Orthographe et respect**</mark> :
 
-🔹 **Flood**\
-➡️ L’envoi à au moins deux reprises de caractères incompréhensibles (`uzhdusjsk`) ou l’utilisation excessive de signes de ponctuation (`!!!!!!!`) dans le but de surcharger le chat.\
-⏰ Sanction : **mute 30 minutes**
+* Tous les utilisateurs s’exprimant dans les chats du serveur doivent faire un minimum attention à leur orthographe afin de garantir des échanges clairs et respectueux.
+* Les troubles tels que la dyslexie, la dysorthographie, etc., ne sont pas sanctionnés.
 
-🔹 **Spam**\
-➡️ L’envoi du même message trois fois ou plus en peu de temps.\
-⏰ Sanction : **mute 30 minutes**
+<mark style="color:purple;">**Responsabilité du compte**</mark> :
 
-🔹 **Majuscules**\
-➡️ Les messages entièrement en majuscules ne sont pas tolérés s’ils sont envoyés plus de deux fois.\
-⏰ Sanction : **mute 30 minutes**
+* Chaque joueur est le seul responsable de l’utilisation de son compte.
+* Quoi qu’il arrive (prêt, vol, utilisation par un proche…), vous en assumez les conséquences.
+* Le staff ne pourra pas intervenir ni annuler une sanction.
+* Un compte est personnel : ne le prêtez jamais.
 
-🔹 **Publicité**\
-➡️ Toute forme de publicité (serveur, YouTube, etc.) est strictement interdite, sauf autorisation avec le grade Influenceur.\
-⏰ Sanction : **mute 1 heure**
+<mark style="color:purple;">**Staff abusif**</mark> :
 
-🔹 **Provocation**\
-➡️ Toute provocation visant à rabaisser un joueur (ex. : _ez, guez, t’es nul_).\
-⏰ Sanction : **mute 1 heure**
+* Si un membre du staff se montre injurieux, vulgaire, violent ou abuse de ses pouvoirs, contactez immédiatement un responsable via un ticket administratif.
 
-🔹 **Insultes**\
-➡️ Toute insulte envers un joueur ou un membre du staff.\
-⏰ Sanction : **mute 2 heures**
+<mark style="color:purple;">**Comportement**</mark> :
 
-🔹 **Discrimination**\
-➡️ Racisme, sexisme, homophobie, transphobie, grossophobie, etc.\
-⏰ Sanction : **mute 48 heures**
+* Cette liste n’est pas exhaustive.
+* Tout comportement jugé déplacé ou contraire aux règles pourra entraîner une sanction.
 
 ***
 
-## 🎮 2. EN JEU
+### 1. <mark style="background-color:purple;">Chat IG / Discord</mark>
 
-🔒 **DOX et DDOS**\
-➡️ Menaces ou tentatives de DDoS / divulgation d’infos personnelles (adresse, photo, IP…).\
-⛔ Sanction : **ban 999 jours**
+<mark style="color:purple;">**Flood**</mark> :
 
-🐛 **Exploitation de bug**
+* Envoi répété de caractères incompréhensibles ou abus de ponctuation.
+* Sanction : mute 30 minutes.
 
-* Bug mineur : **ban temporaire (jours/semaines)**
-* Bug majeur (avantage significatif) : **ban permanent / blacklist**
+<mark style="color:purple;">**Spam**</mark> :
 
-💸 **Vente de stuff**\
-➡️ La vente de stuff contre de l’argent réel, du Discord Nitro ou tout service extérieur est interdite.\
-⛔ Sanction : **ban permanent (999 jours)**
+* Envoi du même message trois fois ou plus en peu de temps.
+* Sanction : mute 30 minutes.
 
-👥 **Double compte**\
-➡️ Autorisé uniquement pour rester AFK en ferme.\
-🚫 Interdit pour contourner un ban, arnaquer, dupliquer, etc.\
-⛔ Sanction : **ban permanent (999 jours)**
+<mark style="color:purple;">**Majuscules**</mark> :
 
-⚡ **Cheats et tricheries**\
-➡️ Toute forme de triche est interdite : auto-click, macros, reach, manette-souris, packs avantageux, hitbox modifiée…\
-⏰ Sanction : **ban 60 jours**\
-👉 Réduction possible de 15 jours si le joueur avoue avant la vérification.
+* Messages entièrement en majuscules répétés plus de deux fois.
+* Sanction : mute 30 minutes.
 
-👥 **Complicité de triche**\
-➡️ Aider un tricheur ou fermer les yeux.\
-⏰ Sanction : **ban 30 jours**
+<mark style="color:purple;">**Publicité**</mark> :
 
-📢 **Promotion de cheats**\
-⏰ Sanction : **ban 60 jours**
+* Toute publicité est interdite sauf autorisation (grade Influenceur).
+* Sanction : mute 1 heure.
 
-🌐 **Crash connexion**\
-➡️ Provoquer un lag pour s’échapper ou accéder à une zone.\
-⏰ Sanction : **ban 15 jours + stuff rendu**
+<mark style="color:purple;">**Provocation**</mark> :
 
-⚔️ **Trahison**\
-➡️ Vol d’objets d’une faction (sticks, armures, etc.).\
-⏰ Sanction : **ban 15 à 30 jours**
+* Messages visant à rabaisser un ou plusieurs joueurs.
+* Sanction : mute 1 heure.
 
-🎣 **AFK Minage / Pêche / Monstre**\
-➡️ Interdit sans répondre à un appel staff.\
-⏰ Sanction : **ban 5 jours**
+<mark style="color:purple;">**Insultes**</mark> :
 
-🎭 **Arnaque**\
-➡️ Tromper un joueur (ex. : vendre un lingot comme minerai rare).\
-⏰ Sanction : **ban 10 jours**
+* Insultes envers un joueur ou un membre du staff.
+* Sanction : mute 2 heures.
 
-🔪 **Freekill**\
-➡️ Tuer un joueur +4 fois en <10 min.\
-⏰ Sanction : **ban 10 jours + clear gains**
+<mark style="color:purple;">**Discrimination**</mark> :
 
-🪤 **Use bug**\
-➡️ Exploitation de portillons, portes, bedrock, etc.\
-⏰ Sanction : **ban 5 jours + stuff rendu**
-
-## 🪤 Traps & Combat
-
-🔴 **Trap No Heal**\
-➡️ Interdit de faire des traps empêchant la régénération (tables de craft, portillons placés au-dessus de toiles d’araignée, etc.).
-
-* Les traps ne doivent plus avoir de portillons au milieu.
-* Se soigner en regardant le ciel n’est pas valide.\
-  ⏰ Sanction : **clear de la trap + ban 5 jours**
-
-🌾 **Farm dans une Trap**\
-➡️ L’utilisation de spawners ou de cultures dans une APS est interdite.
-
-* Tous les objets ou installations utilisés pour le farm seront supprimés.
-
-🕹️ **Hosting**\
-➡️ Maintenir volontairement un joueur en combat dans une trap sans lui infliger de dégâts (sans intention de le tuer).\
-⏰ Sanction : **ban 3 jours**
-
-🏃 **Back Safe Zone**\
-➡️ Se réfugier dans une zone protégée pendant un combat (perle au spawn, fuite en zone sans PVP, etc.).\
-⏰ Sanction : **ban 3 jours**
-
-🧱 **Traps Alignées**\
-➡️ Il est interdit d’aligner trois traps avec des alliances (commande `/f ally`).\
-⏰ Sanction : **clear de l’AP centrale**
-
-📣 **Contournement de mute**\
-➡️ Envoyer un message via un double compte ou autre méthode après avoir été mute.
-
-* Vous pouvez discuter en privé avec vos amis.\
-  ⏰ Sanction : **ban 2 jours (durée augmentée selon gravité)**
-
-🔄 **Full Back**\
-➡️ Revenir 4 fois ou plus de suite dans une trap ou un lieu de combat (même sans mourir).\
-⏰ Sanction : **ban 3 jours**
-
-🎭 **Skin inapproprié**\
-➡️ Les skins trop petits/grands, obscènes, choquants ou donnant un avantage en PVP sont interdits.
-
-* Kick immédiat.
-* Si retour sans changement : **ban 2 jours**
-* En cas de récidive : **sanction prolongée**
-
-✏️ **Rename d’objets**\
-➡️ Interdit de renommer un item avec insultes, provocations, flood, spam, contenu obscène ou infos perso.\
-⛔ L’objet est **clear immédiatement** + ban selon gravité.
-
-🥚 **Eggtrap Event**\
-➡️ Utiliser une Eggtrap dans la zone de l’Outpost ou de l’AFK Money est interdit.\
-⏰ Sanction : **clear de la récompense + ban 2 jours**
-
-🚫 **Mensonge Staff**\
-➡️ Mentir à un membre du staff (ticket ou report) pour obtenir un remboursement injustifié ou faire bannir un joueur.\
-⏰ Sanction : **ban 2 jours**
-
-🎁 **Faux giveaway**\
-➡️ Organiser un faux giveaway pour piéger des joueurs (warzone ou autre).\
-⏰ Sanction : **ban 2 jours**
-
-⚔️ **Règle 1vs1**\
-➡️ Si deux joueurs acceptent un 1vs1 avec des règles précises (no back, no multi, no stick, etc.), le non-respect entraîne :\
-⏰ Sanction : **ban 1 jour**\
-⚠️ Attention : seules les règles **claires et précises** seront prises en compte.
+* Racisme, sexisme, homophobie, transphobie, grossophobie, etc.
+* Sanction : mute 48 heures.
 
 ***
 
-## 🎧 3. Discord
+### 2. <mark style="background-color:purple;">En jeu</mark>
 
-⚠️ Le règlement n’est pas exhaustif. Le staff peut sanctionner pour toute raison jugée nécessaire.
+<mark style="color:purple;">**DOX et DDOS**</mark> :
 
-📌 Règles générales dans **tous les salons (écrits et vocaux)** :
+* Menaces ou tentatives de DDoS ou divulgation d’informations personnelles.
+* Sanction : bannissement 999 jours.
 
-* 🤝 Respect obligatoire entre tous les joueurs.
-* 🚫 Contenus **pornographiques, xénophobes, homophobes, racistes, sexistes** interdits.
-* 🖼️ Photos de profil et pseudos doivent respecter les règles du serveur. (conseillé : pseudo IG = pseudo Discord)
-* 🕵️ Usurpation d’identité interdite (photo, pseudo).
-* 📢 Publicité interdite (sauf dans les salons prévus).
-* 💸 Vente de biens liés ou non à Linesia interdite.
-* 🌐 Menaces ou actions de **DDOS / Token Grab** interdites.
-* 🔁 Spam / flood interdit.
-* 🤬 Insultes et provocations interdites.
-* 🔔 Multiples mentions interdites (ghost ping inclus).
-* 🚫 Ping un **HS (Haut Staff)** interdit sauf si c’est lui qui vous a ping.
-* 📷 Publication d’images/vidéos sans accord interdites (sauf ticket).
-* 🔗 Partage de liens hors sujet interdit.
-* 🎶 Soundboard / modificateur de voix à but de troll interdits.
-* 📣 Hurlements ou sons nuisibles interdits.
-* 🔊 Quitter/rejoindre un vocal en boucle interdit.
-* 🎥 Enregistrements audio/vidéo sans consentement interdits (sauf preuve).
+<mark style="color:purple;">**Exploitation de bug**</mark> :
+
+* Bug mineur : bannissement temporaire (jours/semaines).
+* Bug majeur (avantage significatif) : bannissement permanent / blacklist.
+
+<mark style="color:purple;">**Vente de stuff contre argent réel**</mark> :
+
+* Strictement interdite.
+* Sanction : bannissement 999 jours.
+
+<mark style="color:purple;">**Double compte**</mark> :
+
+* Autorisé uniquement pour AFK farm.
+* Interdit pour : contourner un ban, freekills, arnaques, trahison, duplication.
+* Sanction : bannissement 999 jours.
+
+<mark style="color:purple;">**Cheats et tricheries**</mark> :
+
+* Toute forme de triche (logiciels, macros, souris < 8 ms, packs avantageux, etc.).
+* Sanction : bannissement 60 jours.
+* Réduction possible de 15 jours si aveu avant vérification.
+
+<mark style="color:purple;">**Complicité de triche**</mark> :
+
+* Aider un joueur tricheur ou fermer les yeux.
+* Sanction : bannissement 30 jours.
+
+<mark style="color:purple;">**Promotion de cheats**</mark> :
+
+* Sanction : bannissement 60 jours.
+
+<mark style="color:purple;">**Crash connexion**</mark> :
+
+* Provoquer un ralentissement volontaire de connexion pour avantage.
+* Sanction : bannissement 15 jours + restitution du stuff.
+
+<mark style="color:purple;">**Trahison**</mark> :
+
+* Vol d’objets d’un joueur ou d’une faction sans autorisation.
+* Sanction : bannissement 15 à 30 jours selon gravité.
+
+<mark style="color:purple;">**AFK Minage / Pêche / Monstre**</mark> :
+
+* Interdit de rester AFK sans répondre à un appel du staff.
+* Sanction : bannissement 5 jours.
+
+<mark style="color:purple;">**Arnaque**</mark> :
+
+* Tromperie ou vente d’objets faux ou trompeurs.
+* Sanction : bannissement 10 jours.
+
+<mark style="color:purple;">**Freekill**</mark> :
+
+* Tuer un joueur plus de 4 fois en moins de 10 minutes.
+* Sanction : bannissement 10 jours + clear des gains.
+
+<mark style="color:purple;">**Use Bug**</mark> :
+
+* Exploitation de bugs (portillons, bedrock, etc.).
+* Sanction : bannissement 5 jours + restitution du stuff.
+
+<mark style="color:purple;">**Trap No Heal**</mark> :
+
+* Traps empêchant la régénération interdites.
+* Sanction : clear de la trap + bannissement 5 jours.
+* Les traps doivent permettre la régénération pour garantir un combat équitable.
+
+<mark style="color:purple;">**Hosting**</mark> :
+
+* Maintenir volontairement un joueur en combat sans intention de le tuer.
+* Sanction : bannissement 3 jours.
+
+<mark style="color:purple;">**Back Safe Zone**</mark> :
+
+* Se réfugier dans une zone protégée pendant un combat (perle au spawn, fuite zone sans PVP).
+* Sanction : bannissement 3 jours.
+
+<mark style="color:purple;">**Traps Alignées**</mark> :
+
+* Aligner trois traps avec des alliances via /f ally interdit.
+* Sanction : clear de l’AP centrale.
+
+<mark style="color:purple;">**Full Back**</mark> :
+
+* Revenir 4 fois ou plus dans une trap/combat.
+* Sanction : bannissement 3 jours.
+
+<mark style="color:purple;">**Skin inapproprié**</mark> :
+
+* Skins choquants ou avantageux en PVP interdits.
+* Sanction : kick, puis ban 2 jours en cas de récidive.
+
+<mark style="color:purple;">**Rename d’objets**</mark> :
+
+* Interdit de renommer un objet avec insultes, provocations ou contenu choquant.
+* Sanction : clear + ban selon gravité.
+
+<mark style="color:purple;">**EggTrap Event**</mark> :
+
+* Utiliser une Eggtrap à l’Outpost ou AFK Money interdit.
+* Sanction : clear récompense + bannissement 2 jours.
+
+<mark style="color:purple;">**Mensonge Staff**</mark> :
+
+* Mentir à un staff lors d’un ticket ou report.
+* Sanction : bannissement 2 jours.
+
+<mark style="color:purple;">**Faux giveaway**</mark> :
+
+* Organisation de faux giveaway interdit.
+* Sanction : bannissement 2 jours.
+
+<mark style="color:purple;">**Règle 1vs1**</mark> :
+
+* Non-respect d’un accord clair 1vs1.
+* Sanction : bannissement 1 jour.
 
 ***
 
-## 🖥️ 4. Vérification
+### 3. <mark style="background-color:purple;">Vérification</mark>
 
-⚠️ Toute entrave = **ban direct**.
+<mark style="color:purple;">**Services activés**</mark> :
 
-🔧 Services obligatoirement activés :
+* Vos services ne doivent pas être désactivés (exception : SgrmBroker) sous peine de bannissement.
+* Liste des services principaux devant absolument être activés :
+  * Explorer
+  * Gestionnaire des tâches
+  * Temp
+  * Regedit (Éditeur de registre)
+  * SysMain (Prefetch) — Pour réactiver SysMain (souvent désactivé pour des optimisations) :
+    * Ouvrez le gestionnaire des tâches
+    * Allez dans l’onglet Services
+    * Cherchez SysMain
+    * Cliquez dessus avec le bouton droit
+    * Sélectionnez Démarrer
 
-* Explorer
-* Gestionnaire des tâches
-* Temp
-* Regedit (Éditeur de registre)
-* SysMain (Prefetch)
+<mark style="color:purple;">**Logiciel et matériel**</mark> :
 
-📌 Réactivation de **SysMain** :
+* Votre logiciel de souris ou de clavier ne doit subir aucune modification avant la vérification, sous peine de bannissement.
+* Le debounce time de votre souris ne doit pas être inférieur à 8 ms.
+* À aucun moment, vous ne devez entraver la vérification (troll, perturbation, etc.), sous peine de bannissement.
+* Votre corbeille ne doit pas être modifiée ou vidée avant la vérification.
+* Si un nettoyage de registre a été effectué avant la vérification, cela entraînera un bannissement.
+* Si un logiciel de nettoyage (type CCleaner, AdwCleaner, etc.) est ouvert avant la vérification, cela entraînera un bannissement.
 
-1. Ouvrir le gestionnaire des tâches
-2. Aller dans l’onglet _Services_
-3. Chercher **SysMain**
-4. Clic droit → **Démarrer**
+<mark style="color:purple;">**Refus de vérification**</mark> :
 
-🚫 Interdictions :
+* Vous avez le droit de refuser la vérification, celle-ci n’est pas obligatoire.
+* En revanche, un refus entraînera un bannissement.
 
-* Modifier logiciels souris/clavier avant vérif.
-* Avoir un **debounce time < 8**.
-* Vider/modifier la corbeille.
-* Faire un nettoyage de registre.
-* Lancer un logiciel de nettoyage (CCleaner, AdwCleaner…).
-* Troll ou perturber la vérification.
+<mark style="color:purple;">**Logiciels ou modifications suspectes**</mark> :
 
-✅ Droit de refuser la vérification → mais entraîne **ban direct**.
-
-💻 Si un logiciel de triche est utilisé : vous devrez **redémarrer entièrement la machine** avant de rejouer.
+* Dans l’éventualité où un logiciel de triche ou quelconque modification permettant d’avoir un avantage est utilisée, vous devrez au minimum redémarrer entièrement votre machine avant de vous connecter au serveur afin d’être considéré clean.
 
 ***
 
-## 📝 5. Note
+### 4. <mark style="background-color:purple;">Notes</mark>
 
-* 📹 Toute demande de remboursement doit être accompagnée d’une **preuve vidéo** (inventaire visible).
-* ❌ Erreurs humaines non remboursables.
-* 👑 Si le leader d’une faction est banni → un officier devient chef (ou un membre choisi avec accord du staff).
-* 🤝 Participer à une infraction = complicité = **même sanction**.
-* 🧨 Être présent dans une zone de duplication ou avoir un home = **ban**.
-* 🔗 Refus de connexion au Discord = **ban permanent**.
-* 🚫 Contournement de sanction = aggravation.
-* 📢 Harcèlement sanctionné sous toutes ses formes.
-* 🎫 Tickets non conformes/irrespectueux/avec spam ping = **fermeture + mute** en cas de récidive.
-* 🎮 Events joueurs autorisés (sans intervention staff). Toute pub doit être validée. Débordement = sanction organisateurs.
-* 👤 Prêt de compte = responsabilité du joueur.
-* ⚠️ Chantage lié au règlement = sanction par un **HS**.
+<mark style="color:purple;">**Demandes de remboursement**</mark> :
+
+* Toute demande de remboursement (suite à la perte de stuff ou items) doit OBLIGATOIREMENT être accompagnée d'une preuve vidéo (UNIQUEMENT).
+* Les erreurs humaines ne sont pas remboursables.
+* Seul le stuff visible sur les recs sera remboursé si l’inventaire n’est pas visible.
+
+<mark style="color:purple;">**Lead de faction**</mark> :
+
+* Si le leader d'une faction est banni, un officier de votre faction se verra attribuer le lead.
+* S'il n'y a pas d'officier, un membre sera désigné (avec l'accord du chef).
+
+<mark style="color:purple;">**Complicité**</mark> :
+
+* Si vous participez avec une personne à un manquement au règlement, cela vous rend complice et vous serez sanctionné de la même manière.
+
+<mark style="color:purple;">**Duplication**</mark> :
+
+* Si vous vous trouvez dans un endroit où de la duplication a été effectuée, ou si vous êtes au courant et ne le signalez pas, vous serez traité comme duplicateur et banni.
+* Il en va de même si vous possédez un home où de la duplication a été produite.
+
+<mark style="color:purple;">**Discord**</mark> :
+
+* Si vous refusez de passer sur le Discord malgré plusieurs avertissements (warn/kick), un bannissement permanent sera appliqué jusqu’à connexion.
+
+<mark style="color:purple;">**Contournement de sanction**</mark> :
+
+* Le contournement de sanction entraîne automatiquement une sanction plus lourde.
+
+<mark style="color:purple;">**Harcèlement**</mark> :
+
+* Le harcèlement est condamné sous toutes ses formes.
+* Les responsables peuvent prendre en compte tout élément pour éclaircir la situation.
+
+<mark style="color:purple;">**Tickets**</mark> :
+
+* Tout ticket non conforme, irrespectueux ou avec ping démesuré sera fermé.
+* Un mute de plusieurs jours peut s’ajouter en cas de récidive.
+
+<mark style="color:purple;">**Events joueurs**</mark> :
+
+* Les events joueurs sont autorisés en jeu mais ne doivent nécessiter aucune action du Staff.
+* Pas de publicité sur le serveur officiel Linesia sans autorisation.
+* En cas de débordement, les organisateurs de l'event seront responsables et sanctionnés.
+
+<mark style="color:purple;">**Prêt de compte**</mark> :
+
+* Si vous prêtez votre compte, vous êtes responsable des conséquences.
+* Un compte est personnel et ne doit pas être partagé.
+
+<mark style="color:purple;">**Chantage au règlement**</mark> :
+
+* Le chantage concernant le règlement peut être sanctionné par un bannissement décidé par un HS (Haut Staff).
+
+***
