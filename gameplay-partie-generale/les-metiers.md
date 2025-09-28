@@ -4,7 +4,7 @@ description: Retrouvez ici toutes les informations concernant les métiers
 
 # 👷 La FarmZone
 
-Maintenant que vous savez tout sur :island: [<mark style="color:orange;">**Les équipages**</mark>](les-equipages/), il est temps d'en apprendre plus sur les <mark style="color:yellow;">**moyens de gagner des récompenses**</mark> sur le serveur.
+Maintenant que vous savez tout sur :island: [<mark style="color:orange;">**Les équipages**</mark>](../gameplay-general/les-equipages.md), il est temps d'en apprendre plus sur les <mark style="color:yellow;">**moyens de gagner des récompenses**</mark> sur le serveur.
 
 Sur <mark style="color:yellow;">**MinePiece**</mark>, vous avez la possibilité d’exercer jusqu’à <mark style="color:yellow;">**4 métiers différents**</mark>, chacun avec ses propres <mark style="color:yellow;">**actions**</mark>, <mark style="color:yellow;">**niveaux**</mark>, <mark style="color:yellow;">**récompenses**</mark> et <mark style="color:yellow;">**gains**</mark>. Travailler dans un métier vous permet de gagner de l’<mark style="color:yellow;">**argent (Berrys)**</mark> ainsi que de l’<mark style="color:yellow;">**expérience de métier**</mark>, tout en obtenant des <mark style="color:yellow;">**récompenses exclusives**</mark> au fil de votre progression.
 

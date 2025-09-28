@@ -4,7 +4,7 @@ description: Retrouvez ici toutes les informations concernant les prestiges de v
 
 # ⚙️ Les Prestiges
 
-Comme vous avez pu le voir dans la précédente section sur :island: [<mark style="color:orange;">**Les équipages**</mark>](../les-equipages/), des <mark style="color:yellow;">**améliorations**</mark> sont <mark style="color:yellow;">**disponibles**</mark> pour celles-ci. Ce sont les <mark style="color:yellow;">**prestiges d'île**</mark>.
+Comme vous avez pu le voir dans la précédente section sur :island: [<mark style="color:orange;">**Les équipages**</mark>](../../gameplay-general/les-equipages.md), des <mark style="color:yellow;">**améliorations**</mark> sont <mark style="color:yellow;">**disponibles**</mark> pour celles-ci. Ce sont les <mark style="color:yellow;">**prestiges d'île**</mark>.
 
 Il en existe un total de <mark style="color:yellow;">**7 achetables**</mark> de <mark style="color:yellow;">**2 manières**</mark>, avec de l'<mark style="color:yellow;">**argent**</mark> en jeu dans le menu <mark style="color:yellow;">**`/prestige`**</mark> ou avec des <mark style="color:green;">**Gemmes**</mark>.
 
