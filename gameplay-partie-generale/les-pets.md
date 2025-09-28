@@ -2,7 +2,7 @@
 description: Retrouvez ici toutes les informations concernant les pets
 ---
 
-# 🥚 Les Quêtes
+# 🧙‍♂️ Les Quêtes
 
 Dans MinePiece, les <mark style="color:yellow;">**Familiers**</mark> sont vos compagnons d’aventure. Ils vous confèrent des <mark style="color:yellow;">**avantages puissants**</mark>, que ce soit <mark style="color:yellow;">**directement sur votre personnage**</mark> ou à travers leur présence sur votre <mark style="color:yellow;">**Île**</mark>.
 

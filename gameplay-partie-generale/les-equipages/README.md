@@ -2,7 +2,7 @@
 description: Comment avoir un bon début sur Linesia ?
 ---
 
-# 👑 Bien débuter
+# 🎓 Bien débuter
 
 ***
 

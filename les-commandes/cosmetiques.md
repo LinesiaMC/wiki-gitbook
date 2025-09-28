@@ -1,6 +1,0 @@
----
-icon: galaxy
----
-
-# Cosmétiques
-

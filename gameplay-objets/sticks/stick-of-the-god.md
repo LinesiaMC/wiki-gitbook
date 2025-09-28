@@ -2,13 +2,13 @@
 
 ***
 
-#### Le Stick of the God : le pouvoir ultime
+#### <mark style="color:purple;">Le Stick of the God : le pouvoir ultime</mark>
 
 Le **Stick of the God** est un objet spécial disponible sur **Linesia**. Il confère à son utilisateur des **bonus puissants**, permettant de dominer totalement un combat et de se déplacer furtivement pour surprendre ses adversaires.
 
 ***
 
-#### Effets du Stick of the God
+#### <mark style="color:purple;">Effets du Stick of the God</mark>
 
 Lorsqu’il est utilisé, le joueur reçoit :
 
@@ -21,7 +21,7 @@ Ces effets combinés permettent de **frapper fort, se déplacer rapidement et re
 
 ***
 
-#### Comment obtenir un Stick of the God ?
+#### <mark style="color:purple;">Comment obtenir un Stick of the God ?</mark>
 
 1. **Au /shop**
    * Disponible à l’achat contre la monnaie du serveur.
@@ -32,7 +32,7 @@ Ces effets combinés permettent de **frapper fort, se déplacer rapidement et re
 
 ***
 
-#### En résumé
+#### <mark style="color:purple;">En résumé</mark>
 
 Le Stick of the God est l’arme ultime sur **Linesia**, offrant **force, vitesse et invisibilité** à son utilisateur. Obtenable via le shop, l’hôtel des ventes ou le PvP, il permet de dominer complètement un combat et de surprendre ses adversaires.
 

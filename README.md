@@ -13,128 +13,73 @@ Vous y retrouverez <mark style="color:purple;">**toutes les fonctionnalités du 
 
 ***
 
-<h2 align="center">📖 Plan du Wiki – Serveur Linesia</h2>
-
-## 🔹 Informations
-
-
-
-* Se connecter
-* Boutique
-* Comment voter
-* Discord du serveur
-* Bot de jeu\
-
-
-## 📜 Règlements
-
-
-
-* Règlement IG
-* Règlement Discord\
-  \
-
-
-## ⚔️ GamePlay
+* [x] Spawners
+* [x] les ap
+* [x] les raids
+* [x] le farming
+* [x] la peche
+* [x] le pvp
+* [ ] les quetes
+* [ ] les items
+* [ ] plugin de faction
+* [ ] les stats
+* [ ] le cooldown
+* [ ] les classements
+* [ ] cosmetics
+* [ ] shop
+* [ ] hdv
+* [ ] money plugin
+* [ ] tokens
+* [ ] settings
+* [ ] les boxs
+* [ ] les events
 
 
 
-* Bien débuter
-* Les Paliers
-* Farmzone
-* Décoration
-* Les Avant-postes
-* Raids de factions
-* Minage
-* Farm
-* Pêche
-* PvP
-* Quêtes\
-  \
-
-
-## 💎 Équipements
 
 
 
-* Améthyste
-* Rubis
-* Onyx
-* Farm
-* Feu
-* Glace\
-  \
 
-
-## 🎉 Évènements
-
-
-
-* Domination
-* Nexus
-* Totem
-* Chest-refill
-* AFK-money
-* Outpost\
-  \
-
-
-## ⌨️ Commandes
-
-
-
-* Faction
-* Stats
-* Cooldown
-* Tops
-* Cosmetics
-* Shop
-* HDV
-* Money
-* Tokens
-* Settings\
-  \
-
-
-## ⭐ Grades
+1. Le règlement en jeu
+2. le règlement discord
+3. FAQ
+4. rejoindre le discord
+5. tutoriels (join le serv, voter, faire un pack perso, devenir influenceur)
+6. fonctionnalitées du bot discord (casino etc...)
+7. bien débuter
+8. les prestiges
+9. la farmzone
+10. le minage
+11. la deco (le /deco, le /block)
+12. les ap
+13. les raids des faction
+14. le farming (en général)
+15. la pêche
+16. le pvp
+17. les quetes (pour monter les prestiges)
+18. les spawners
+19. les armures
+20. les épées
+21. les minerais
+22. les sticks
+23. les objets (switchball, egg, bump, glider, grappin, dynamite etc)
+24. l'argent en jeu (plugin de money en général)
+25. les cosmetiques
+26. plugin de faction (fais genre un fond simplement avec des joueurs qui pvp)
+27. statistiques (des joueurs)
+28. cooldown
+29. classement (les tops)
+30. le shop
+31. le hdv
+32. les tokens
+33. les settings (/settings)
+34. le grade premium
+35. le grade élite
+36. les boxs
 
 
 
-* VIP
-* Premium
-* Premium+\
-  \
 
-
-## 🎁 Boxs
-
-
-
-* Commune
-* Farm
-* Legendary
-* Glace
-* Feu\
-  \
-
-
-## 🧩 Objets
-
-
-
-* Bump
-* SwitchBall
-* EggTrap
-* Roche Volcanique
-* Quartz de Glace
-* Minerais Bruts
-* Glider
-* Grappin
-* Gemmes de Spawners
-* Spawners
-* Infinite Arrow
-* Dynamite
-* Sticks
 
 ***
 

@@ -8,13 +8,13 @@ description: >-
 
 ***
 
-#### Le Stick <mark style="color:$primary;">Anti-Back</mark> : l’ultime outil de contrôle
+#### <mark style="color:purple;">Le Stick</mark> Anti-Back <mark style="color:purple;">: l’ultime outil de contrôle</mark>
 
 Le **Stick&#x20;**<mark style="color:$primary;">**Anti-Back**</mark> est un objet spécial disponible sur <mark style="color:purple;">**Linesia**</mark>. C’est probablement l’un des sticks les plus puissants, car il combine plusieurs effets négatifs pour l’adversaire et des avantages significatifs pour l’utilisateur. Son utilisation en combat peut totalement renverser une situation.
 
 ***
 
-#### Effets du Stick <mark style="color:$primary;">Anti-Back</mark>
+#### <mark style="color:purple;">Effets du Stick</mark> Anti-Back
 
 Lorsqu’il est utilisé sur un joueur, celui-ci reçoit :
 
@@ -25,7 +25,7 @@ Lorsqu’il est utilisé sur un joueur, celui-ci reçoit :
 
 ***
 
-#### Comment obtenir un Stick <mark style="color:$primary;">Anti-Back</mark> ?
+#### <mark style="color:purple;">Comment obtenir un Stick</mark> Anti-Back <mark style="color:purple;">?</mark>
 
 Tu peux te le procurer de différentes façons :
 
@@ -38,7 +38,7 @@ Tu peux te le procurer de différentes façons :
 
 ***
 
-#### En résumé
+#### <mark style="color:purple;">En résumé</mark>
 
 Le Stick <mark style="color:$primary;">Anti-Back</mark> est un outil redoutable qui combine plusieurs effets de contrôle. C’est l’arme idéale pour dominer un combat et garder un contrôle total sur ton adversaire sur <mark style="color:purple;">**Linesia**</mark>.
 

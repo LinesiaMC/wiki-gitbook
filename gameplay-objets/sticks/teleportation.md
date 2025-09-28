@@ -8,20 +8,20 @@ description: >-
 
 ***
 
-#### Le Stick de Téléportation : surprendre son adversaire
+#### <mark style="color:purple;">Le Stick de Téléportation : surprendre son adversaire</mark>
 
-Le **Stick de Téléportation** est un objet spécial disponible sur **Linesia**. Son effet unique permet de se **téléporter instantanément sur le dernier joueur qui t’a frappé**. C’est un outil idéal pour surprendre un adversaire, retourner un combat à ton avantage ou rattraper un joueur qui essaie de s’enfuir après t’avoir attaqué.
+Le **Stick de&#x20;**<mark style="color:blue;">**Téléportation**</mark> est un objet spécial disponible sur <mark style="color:purple;">**Linesia**</mark>. Son effet unique permet de se **téléporter instantanément sur le dernier joueur qui t’a frappé**. C’est un outil idéal pour surprendre un adversaire, retourner un combat à ton avantage ou rattraper un joueur qui essaie de s’enfuir après t’avoir attaqué.
 
 ***
 
-#### Effet du Stick de Téléportation
+#### <mark style="color:purple;">Effet du Stick de Téléportation</mark>
 
-* Lorsque tu actives le stick, tu es **immédiatement téléporté** sur la position du dernier joueur qui t’a infligé des dégâts.
+* Lorsque tu actives le stick, tu es <mark style="color:blue;">**immédiatement téléporté**</mark> sur la position du dernier joueur qui t’a infligé des dégâts.
 * Il peut être utilisé aussi bien de manière offensive (pour contre-attaquer) que défensive (pour éviter qu’un joueur prenne la fuite après t’avoir touché).
 
 ***
 
-#### Comment obtenir un Stick de Téléportation ?
+#### <mark style="color:purple;">Comment obtenir un Stick de Téléportation ?</mark>
 
 Tu peux l’obtenir de plusieurs façons :
 
@@ -34,8 +34,8 @@ Tu peux l’obtenir de plusieurs façons :
 
 ***
 
-#### En résumé
+#### <mark style="color:purple;">En résumé</mark>
 
-Le Stick de Téléportation est un outil imprévisible et stratégique, qui te permet de **rejoindre instantanément ton agresseur**. Facilement obtenable via l’économie du serveur ou en PvP, il peut faire basculer un combat en te plaçant directement face à ton adversaire sur **Linesia**.
+Le Stick de <mark style="color:blue;">Téléportation</mark> est un outil imprévisible et stratégique, qui te permet de **rejoindre instantanément ton agresseur**. Facilement obtenable via l’économie du serveur ou en PvP, il peut faire basculer un combat en te plaçant directement face à ton adversaire sur <mark style="color:purple;">**Linesia**</mark>.
 
 ***

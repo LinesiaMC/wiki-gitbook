@@ -8,13 +8,13 @@ description: >-
 
 ***
 
-#### Le Stick Anti-Perle : le bâton contre les évasions
+#### Le Stick <mark style="color:purple;">Anti-Perle</mark> : le bâton contre les évasions
 
-Le **Stick Anti-Perle** est un objet spécial disponible sur Linesia. Son effet unique empêche un joueur touché d’utiliser des **ender-perles** pendant un court instant. Il s’agit donc d’un outil redoutable pour bloquer la fuite d’un adversaire, sécuriser un kill ou maintenir un combat à ton avantage.
+Le **Stick Anti-Perle** est un objet spécial disponible sur <mark style="color:purple;">Linesia</mark>. Son effet unique empêche un joueur touché d’utiliser des <mark style="color:purple;">**ender-perles**</mark> pendant un court instant. Il s’agit donc d’un outil redoutable pour bloquer la fuite d’un adversaire, sécuriser un kill ou maintenir un combat à ton avantage.
 
 ***
 
-#### Comment obtenir un Stick Anti-Perle ?
+#### <mark style="color:purple;">Comment obtenir un Stick Anti-Perle ?</mark>
 
 Il existe plusieurs moyens d’en obtenir un :
 
@@ -30,6 +30,6 @@ Il existe plusieurs moyens d’en obtenir un :
 
 #### En résumé
 
-Le Stick Anti-Perle est un outil essentiel pour contrer les stratégies de fuite à la perle. Que tu l’achètes via l’économie du serveur (/shop, /hdv) ou que tu l’obtiennes par le combat (butin après un kill), il te permettra de garder la maîtrise du terrain et de tes affrontements.
+Le Stick <mark style="color:purple;">Anti-Perle</mark> est un outil essentiel pour contrer les stratégies de fuite à la perle. Que tu l’achètes via l’économie du serveur (/shop, /hdv) ou que tu l’obtiennes par le combat (butin après un kill), il te permettra de garder la maîtrise du terrain et de tes affrontements.
 
 ***

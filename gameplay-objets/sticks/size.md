@@ -8,13 +8,13 @@ description: >-
 
 ***
 
-#### Le Stick de Size : rétrécir pour se faufiler
+#### <mark style="color:purple;">Le Stick de Size : rétrécir pour se faufiler</mark>
 
-Le **Stick de Size** est un objet spécial disponible sur **Linesia**. Son effet unique permet à son utilisateur de **rétrécir temporairement** et de devenir deux fois plus petit que la normale. Cet outil est parfait pour surprendre un adversaire, s’échapper rapidement ou accéder à des passages normalement inaccessibles.
+Le **Stick de&#x20;**<mark style="color:orange;">**Size**</mark> est un objet spécial disponible sur <mark style="color:purple;">**Linesia**</mark>. Son effet unique permet à son utilisateur de **rétrécir temporairement** et de devenir deux fois plus petit que la normale. Cet outil est parfait pour surprendre un adversaire, s’échapper rapidement ou accéder à des passages normalement inaccessibles.
 
 ***
 
-#### Effets du Stick de Size
+#### <mark style="color:purple;">Effets du Stick de Size</mark>
 
 Lorsque tu l’actives, ton personnage :
 
@@ -25,7 +25,7 @@ Lorsque tu l’actives, ton personnage :
 
 ***
 
-#### Comment obtenir un Stick de Size ?
+#### <mark style="color:purple;">Comment obtenir un Stick de Size ?</mark>
 
 Il existe plusieurs façons d’en obtenir un :
 
@@ -38,8 +38,8 @@ Il existe plusieurs façons d’en obtenir un :
 
 ***
 
-#### En résumé
+#### <mark style="color:purple;">En résumé</mark>
 
-Le Stick de Size est un outil original et stratégique qui permet de **rétrécir ton personnage** pour accéder à des endroits étroits ou déstabiliser ton ennemi. Accessible via l’économie du serveur ou en PvP, il ouvre de nouvelles possibilités de déplacement et de combat sur **Linesia**.
+Le Stick de <mark style="color:orange;">Size</mark> est un outil original et stratégique qui permet de **rétrécir ton personnage** pour accéder à des endroits étroits ou déstabiliser ton ennemi. Accessible via l’économie du serveur ou en PvP, il ouvre de nouvelles possibilités de déplacement et de combat sur <mark style="color:purple;">**Linesia**</mark>.
 
 ***

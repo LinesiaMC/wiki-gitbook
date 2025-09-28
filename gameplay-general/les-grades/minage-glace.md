@@ -2,7 +2,7 @@
 
 ***
 
-## <mark style="color:purple;background-color:purple;">Le Minage de Glace sur Linesia</mark>
+## <mark style="color:purple;">Le Minage de Glace sur Linesia</mark>
 
 <mark style="color:purple;">**Linesia**</mark> est un environnement unique où l’exploration et le minage occupent une place centrale dans le développement des joueurs.
 
@@ -41,6 +41,6 @@ Pour tirer le meilleur parti de la mine de glace sur <mark style="color:purple;"
 
 ***
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ***

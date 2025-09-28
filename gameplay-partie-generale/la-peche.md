@@ -2,87 +2,49 @@
 description: Retrouvez ici toutes les informations concernant la pêche
 ---
 
-# 🎣 La Pêche
+# 🐠 La Pêche
 
-Sur <mark style="color:yellow;">**MineBerry**</mark>, la <mark style="color:yellow;">**pêche**</mark> est une <mark style="color:yellow;">**expérience unique**</mark>. En plus des <mark style="color:yellow;">**poissons de base**</mark>, vous aurez la possibilité de pêcher des <mark style="color:yellow;">**espèces exclusives**</mark>.
+***
 
-Ces <mark style="color:yellow;">**Poissons**</mark> sont classés selon <mark style="color:yellow;">**différentes raretés**</mark>, suivant l'ordre :
+## <mark style="color:purple;">La Pêche sur Linesia</mark>
 
-* <mark style="color:green;">**Commun**</mark> (4)
-* <mark style="color:orange;">**Rare**</mark> (6)
-* <mark style="color:blue;">**Épique**</mark> (6)
-* <mark style="color:purple;">**Légendaire**</mark> (6)
+Sur <mark style="color:purple;">Linesia</mark>, la pêche n’est pas seulement une activité secondaire : c’est un véritable système de farm à part entière, pensé pour diversifier vos sources de richesses et rendre vos sessions plus variées. Elle combine la mécanique classique de Minecraft avec de nouvelles fonctionnalités moddés qui apportent profondeur et originalité.
 
-## <mark style="color:green;">Poissons Communs</mark>
+### 1. <mark style="color:purple;">Une pêche classique, mais enrichie</mark>
 
-|               Poissons Communs              |
-| :-----------------------------------------: |
-| <mark style="color:green;">**Carpe**</mark> |
-|  <mark style="color:green;">**Nemo**</mark> |
-| <mark style="color:green;">**Crabe**</mark> |
-|  <mark style="color:green;">**Fugu**</mark> |
+La méthode de pêche reste **simple et intuitive**, comme dans Minecraft d’origine :
 
-## <mark style="color:blue;">Poissons Rares</mark>
+* Vous équipez votre canne à pêche.
+* Vous lancez votre ligne dans une zone d’eau.
+* Vous attendez l’apparition d’un poisson pour ferrer et récupérer votre prise.
 
-|                     Poissons Rares                    |
-| :---------------------------------------------------: |
-|      <mark style="color:blue;">**Poulpe**</mark>      |
-|   <mark style="color:blue;">**Poisson-Lion**</mark>   |
-|      <mark style="color:blue;">**Jashak**</mark>      |
-| <mark style="color:blue;">**Poisson-Lanterne**</mark> |
-|    <mark style="color:blue;">**Macropinna**</mark>    |
-|      <mark style="color:blue;">**Shonai**</mark>      |
+Toutefois, <mark style="color:purple;">Linesia</mark> a enrichi ce système en ajoutant **de nouveaux poissons moddés**. Ces créatures uniques viennent compléter les espèces classiques déjà présentes et permettent d’obtenir des butins inédits. Certaines variétés sont plus rares et précieuses que d’autres, ce qui ajoute une part de chance et de stratégie à vos sessions de pêche.
 
-## <mark style="color:purple;">Poissons Épiques</mark>
+### 2. <mark style="color:purple;">Les zones de pêche</mark>
 
-|                     Poissons Épiques                     |
-| :------------------------------------------------------: |
-| <mark style="color:purple;">**Poisson-Combatant**</mark> |
-|  <mark style="color:purple;">**Poisson-Papillon**</mark> |
-|     <mark style="color:purple;">**Neon Tetra**</mark>    |
-|      <mark style="color:purple;">**Olludian**</mark>     |
-|    <mark style="color:purple;">**Perche Jaune**</mark>   |
-|    <mark style="color:purple;">**Zancle Cornu**</mark>   |
+La pêche peut se pratiquer dans plusieurs environnements spécifiques :
 
-## <mark style="color:yellow;">Poissons Légendaires</mark>
+* **La&#x20;**<mark style="color:$danger;">**FarmZone**</mark>, où des coins de pêche dédiés sont accessibles à tous les joueurs.
+* **Le&#x20;**<mark style="color:$danger;">**Spawn**</mark>, qui dispose également de zones prévues pour vous détendre et tenter votre chance.
 
-|                 Poissons Légendaires                |
-| :-------------------------------------------------: |
-|    <mark style="color:yellow;">**Hommard**</mark>   |
-| <mark style="color:yellow;">**Roi Chacalot**</mark> |
-|   <mark style="color:yellow;">**Roi Raye**</mark>   |
-| <mark style="color:yellow;">**Roi MeuhMeuh**</mark> |
-|  <mark style="color:yellow;">**Roi Serpent**</mark> |
-|   <mark style="color:yellow;">**Roi Singe**</mark>  |
+Ces endroits sont stratégiquement placés pour encourager les interactions entre joueurs et faire de la pêche une activité sociale autant qu’économique.
 
-## <mark style="color:orange;">Pêche Classique</mark>
+### 3. <mark style="color:purple;">Le commerce du poisson</mark>
 
-Pour les poissons <mark style="color:yellow;">**vanilla**</mark> de Minecraft (morue, saumon, poisson-globe, etc.), le fonctionnement reste identique au système classique du jeu :
+Contrairement à d’autres ressources, les poissons pêchés **ne peuvent pas être vendus directement au shop**. Ils possèdent un circuit de vente particulier, ce qui les rend uniques :
 
-1. Lancez votre canne à pêche.
-2. Attendez qu’un poisson morde à l’hameçon.
-3. Ramenez votre prise.
+* Pour vendre vos poissons, vous devez passer par un **PNJ spécial nommé&#x20;**<mark style="color:$danger;">**Ernesto**</mark>.
+* <mark style="color:$danger;">Ernesto</mark> se tient **près des coins de pêche** de la <mark style="color:$danger;">FarmZone</mark> ainsi qu’**au&#x20;**<mark style="color:$danger;">**Spawn**</mark>, pour être facilement accessible aux pêcheurs.
+* C’est lui qui rachètera vos prises en fonction de leur rareté et de leur type.
 
-## <mark style="color:orange;">Pêche des Poissons</mark> <mark style="color:orange;">**Custom**</mark>
+Cela donne à la pêche une dimension différente des autres activités : elle ne sert pas uniquement à nourrir votre personnage, mais aussi à développer une véritable **économie parallèle autour d’Ernesto**.
 
-Lorsqu’un <mark style="color:yellow;">**poisson spécial**</mark> apparaît, l’expérience change complètement :
+### 4. <mark style="color:purple;">Stratégie et intérêt</mark>
 
-1. <mark style="color:yellow;">**Une interface s’ouvre**</mark> au centre de votre écran.
-2. Une <mark style="color:yellow;">**jauge verticale**</mark> apparaît, avec en bas une <mark style="color:green;">**zone verte**</mark>.
-3. Un <mark style="color:yellow;">**icône de poisson**</mark> se déplace de haut en bas dans cette jauge.
-4. <mark style="color:yellow;">**Votre objectif**</mark> : maintenir le poisson <mark style="color:green;">**dans la zone verte**</mark> pour le capturer. Plus le poisson est <mark style="color:yellow;">**rare**</mark> plus le <mark style="color:yellow;">**remplissage**</mark> de la barre à droite sera <mark style="color:yellow;">**difficile**</mark>.
+La pêche sur <mark style="color:purple;">Linesia</mark> se distingue par son rythme particulier :
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-08-13 à 17.32.49 (1).png" alt=""><figcaption></figcaption></figure>
+* Elle peut être une **activité de détente**, idéale pour varier entre deux phases de <mark style="color:$danger;">farm</mark> ou de <mark style="color:$danger;">PvP</mark>.
+* Grâce aux poissons <mark style="color:$danger;">moddés</mark>, elle peut aussi devenir une **source importante de revenus**, surtout si vous tombez sur des espèces rares.
+* Le fait que la vente passe exclusivement par Ernesto crée une dynamique unique et renforce l’importance des zones de pêche comme points stratégiques.
 
-## <mark style="color:orange;">Comment jouer ?</mark>
-
-* <mark style="color:yellow;">**Clic droit**</mark> → fait monter la barre verte.
-* Si vous ne cliquez pas, la barre verte <mark style="color:yellow;">**redescend**</mark> lentement.
-* Maintenez la bonne coordination entre la position du poisson et la zone verte.
-* Une fois <mark style="color:yellow;">**la jauge de progression (à droite)**</mark> remplie, le poisson est à vous !
-
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-08-13 à 17.32.54 (1).png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="success" %}
-<mark style="color:yellow;">**Astuce de pêcheur**</mark> : La patience et le rythme sont la clé ! Cliquez trop vite et vous dépasserez la cible… cliquez trop lentement et le poisson s’échappera.
-{% endhint %}
+***

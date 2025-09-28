@@ -14,23 +14,28 @@
   * [Comment avoir le grade soutien sur discord ?](informations-generales/tutoriels/comment-avoir-le-grade-soutien-sur-discord.md)
   * [Comment faire un pack de texture personnalisé de Linesia ?](informations-generales/tutoriels/comment-faire-un-pack-de-texture-personnalise-de-linesia.md)
   * [Comment devenir Influenceur sur Linesia ?](informations-generales/tutoriels/comment-devenir-influenceur-sur-linesia.md)
+* [💲 Fonctionnalités Bot Discord](informations-generales/fonctionnalites-bot-discord.md)
 
 ## 🎮 Gameplay - Général
 
-* [👑 Bien débuter](gameplay-partie-generale/les-equipages/README.md)
-* [⚙️ Les Prestiges](gameplay-general/les-prestiges-dile.md)
+* [🎓 Bien débuter](gameplay-partie-generale/les-equipages/README.md)
+* [👑 Les Prestiges](gameplay-general/les-prestiges-dile.md)
 * [🧑‍🌾 La FarmZone](gameplay-partie-generale/les-metiers.md)
-* [💰 Le Minage](gameplay-general/les-grades/README.md)
+* [💰 Le Minage](gameplay-partie-generale/les-grades.md)
   * [🪨 Minage Clasique](gameplay-general/les-grades/minage-clasique.md)
   * [💧 Minage Glace](gameplay-general/les-grades/minage-glace.md)
   * [🔥 Minage Feu](gameplay-general/les-grades/minage-feu.md)
 * [🗒️ La Decoration](gameplay-partie-generale/les-quetes.md)
-* [🗡️ Les Avant-Postes](gameplay-partie-generale/le-pass-de-combat.md)
-* [🏅 Les Raids de Factions](gameplay-partie-generale/les-rangs.md)
-* [🎁 Le Farming](gameplay-partie-generale/les-caisses.md)
-* [🎣 La Pêche](gameplay-partie-generale/la-peche.md)
-* [😈 Le PvP](gameplay-partie-generale/les-fruits-du-demon.md)
-* [🥚 Les Quêtes](gameplay-partie-generale/les-pets.md)
+* [🗡️ Les Avants-Postes](gameplay-partie-generale/le-pass-de-combat.md)
+* [🔱 Les Raids de Factions](gameplay-partie-generale/les-rangs.md)
+* [🎭 Le Farming](gameplay-partie-generale/les-caisses.md)
+* [🐠 La Pêche](gameplay-partie-generale/la-peche.md)
+* [🔪 Le PvP](gameplay-partie-generale/les-fruits-du-demon.md)
+* [🧙‍♂️ Les Quêtes](gameplay-partie-generale/les-pets.md)
+* [🔧 Spawners](gameplay-general/spawners/README.md)
+  * [🧟 Zombies](gameplay-general/spawners/zombies.md)
+  * [🐽 Pigmen](gameplay-general/spawners/pigmen.md)
+  * [💀 Wither Squelettes](gameplay-general/spawners/wither-squelettes.md)
 
 ## GamePlay - Objets
 
@@ -80,6 +85,19 @@
     * [Hache en Onyx](gameplay-objets/outils/onyx/hache-en-onyx.md)
     * [Pioche en Onyx](gameplay-objets/outils/onyx/pioche-en-onyx.md)
     * [Houe en Onyx](gameplay-objets/outils/onyx/houe-en-onyx.md)
+* [Objets Spéciaux](gameplay-objets/objets-speciaux/README.md)
+  * [🏐 SwitchBall](gameplay-objets/objets-speciaux/switchball.md)
+  * [EggTrap](gameplay-objets/objets-speciaux/eggtrap.md)
+  * [Bump](gameplay-objets/objets-speciaux/bump.md)
+  * [Glider](gameplay-objets/objets-speciaux/glider.md)
+  * [Grappin](gameplay-objets/objets-speciaux/grappin.md)
+  * [Chorus](gameplay-objets/objets-speciaux/chorus.md)
+  * [Dynamite](gameplay-objets/objets-speciaux/dynamite.md)
+
+## 🔗 GamePlay - Autres
+
+* [Argent en Jeu](gameplay-autres/argent-en-jeu.md)
+* [🐲 Les Cosmétiques](gameplay-autres/les-cosmetiques.md)
 
 ## Les Commandes
 
@@ -87,10 +105,8 @@
 * [Statistiques](les-commandes/statistiques.md)
 * [Cooldown](les-commandes/cooldown.md)
 * [Classements](les-commandes/classements.md)
-* [Cosmétiques](les-commandes/cosmetiques.md)
 * [Shop](les-commandes/shop.md)
 * [Hôtel De Vente](les-commandes/hotel-de-vente.md)
-* [Argent en Jeu](les-commandes/argent-en-jeu.md)
 * [Jetons](les-commandes/jetons.md)
 * [Paramètres en Jeu](les-commandes/parametres-en-jeu.md)
 

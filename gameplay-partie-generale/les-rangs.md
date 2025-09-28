@@ -1,199 +1,55 @@
 ---
-description: Retrouvez ici toutes les informations concernant le pass de combat
+description: Voici les informations concernant Les nouveaux Raids de Factions sur Linesia !
 ---
 
-# 🏅 Les Raids de Factions
-
-Le système de <mark style="color:yellow;">**rangs**</mark> sur <mark style="color:yellow;">**MinePiece**</mark> récompense votre progression à travers l’aventure et vous ouvre l’accès à de <mark style="color:yellow;">**nouvelles zones**</mark>, fonctionnalités et privilèges.
-
-Chaque montée en rang nécessite de remplir <mark style="color:yellow;">**des prérequis précis**</mark> : niveau, argent et points de dangerosité.
-
-Toutes les <mark style="color:yellow;">**conditions nécessaires**</mark> au <mark style="color:yellow;">**passage d'un rang**</mark> sont disponibles dans le menu <mark style="color:yellow;">**`/rang`**</mark>.
-
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-24 à 15.44.24.png" alt=""><figcaption></figcaption></figure>
-
-## <mark style="color:orange;">Fonctionnement</mark>
-
-Il existe <mark style="color:yellow;">**9 rangs**</mark> progressifs.
-
-Pour chaque passage de rang, vous devrez :
-
-* Atteindre un <mark style="color:yellow;">**niveau minimum**</mark>
-* Accumuler une certaine <mark style="color:yellow;">**somme de Berries**</mark>
-* Obtenir un <mark style="color:yellow;">**nombre défini de points de dangerosité**</mark>
-
-## <mark style="color:orange;">Liste des Rangs</mark>
-
-### <mark style="color:orange;">E</mark><mark style="color:orange;">**sclave**</mark>
-
-<mark style="color:yellow;">**Prérequis**</mark>**&#x20;:**
-
-* Fin du tutoriel
-
-<mark style="color:yellow;">**Avantages**</mark>**&#x20;:**
-
-* Accès au <mark style="color:yellow;">**`/kit Esclave`**</mark>
+# 🔱 Les Raids de Factions
 
 ***
 
-### <mark style="color:orange;">Recrue</mark>
+## <mark style="color:purple;">Le Monolithe : Cœur du Claim et Pilier de la Faction</mark>
 
-<mark style="color:yellow;">**Prérequis**</mark>**&#x20;:**
+Sur <mark style="color:purple;">Linesia</mark>, le **Monolithe** représente bien plus qu’un simple bloc : il est le **cœur de votre claim et de votre faction**. Sa place et sa protection déterminent la sécurité de vos ressources, la puissance de votre avant-poste et vos capacités stratégiques lors des conflits avec d’autres factions.
 
-* Niveau 5
-* 10 000 Berries
+### 1. <mark style="color:purple;">La Fonction du Monolithe</mark>
 
-<mark style="color:yellow;">**Avantages**</mark>**&#x20;:**
+Pour obtenir un claim, il est désormais **obligatoire de poser votre&#x20;**<mark style="color:$primary;">**Monolithe**</mark>. Cette mécanique remplace les anciennes commandes <mark style="color:$primary;">/f claim</mark> et met l’accent sur la **gestion physique et stratégique du territoire**.
 
-* Accès au <mark style="color:yellow;">**`/kit Recrue`**</mark>
-* Accès à <mark style="color:yellow;">**1 home**</mark>
-* Accès à <mark style="color:yellow;">**3 ventes**</mark> dans l’Hôtel des Ventes
-* Accès à <mark style="color:yellow;">**5 coffres de vente**</mark>
-* <mark style="color:yellow;">**1 ticket Impel Down**</mark>
+Le <mark style="color:$primary;">Monolithe</mark> est le point central de votre avant-poste : détruire celui d’un adversaire est la seule façon de <mark style="color:$primary;">**récupérer son claim**</mark>. Ainsi, sa protection devient une priorité absolue.
 
-***
+### 2. <mark style="color:purple;">Raids de Faction et Protection</mark>
 
-### <mark style="color:orange;">P</mark><mark style="color:orange;">**irate**</mark>
+Les <mark style="color:$primary;">**raids de faction**</mark> sont une nouvelle mécanique introduite pour dynamiser les interactions entre factions :
 
-<mark style="color:yellow;">**Prérequis**</mark>**&#x20;:**
+* Les joueurs adverses doivent cibler votre <mark style="color:$primary;">Monolithe</mark> pour prendre votre claim.
+* Il est donc essentiel de **protéger le&#x20;**<mark style="color:$primary;">**Monolithe**</mark>**&#x20;avec des couches de défense solides**, principalement à base d’**obsidienne moddé**, plus ou moins résistante selon sa qualité.
+* Il existe différents types de <mark style="color:$primary;">dynamite</mark> : des <mark style="color:$info;">**dynamites classiques**</mark> et des <mark style="color:$info;">**dynamites plus puissantes**</mark>, capables de traverser certaines protections.
+* La combinaison de ces éléments crée un véritable challenge stratégique : il faudra construire des défenses réfléchies, anticiper les attaques et placer les obsidiennes de manière optimale pour ralentir l’adversaire.
 
-* Niveau 15
-* 25 000 Berries
-* 110 points de dangerosité
+### 3. <mark style="color:purple;">Amélioration et Effets du Monolithe</mark>
 
-<mark style="color:yellow;">**Avantages**</mark>**&#x20;:**
+Le <mark style="color:$primary;">Monolithe</mark> n’est pas uniquement défensif : il peut être **amélioré par votre faction** pour offrir des avantages stratégiques considérables :
 
-* Accès au <mark style="color:yellow;">**`/kit Pirate`**</mark>
-* Accès à <mark style="color:yellow;">**2 homes**</mark>
-* Accès à <mark style="color:yellow;">**4 ventes**</mark> dans l’Hôtel des Ventes
-* Accès à <mark style="color:yellow;">**7 coffres de vente**</mark>
-* Accès à <mark style="color:yellow;">**Grand Line**</mark>
-* Déblocage d’un <mark style="color:yellow;">**2ᵉ familier**</mark>
+* **Effets positifs pour votre faction** : il peut agir comme une balise, conférer de la force, de la résistance, de la vitesse ou augmenter les dégâts infligés aux adversaires.
+* **Effets négatifs pour les ennemis** : les adversaires dans votre claim peuvent subir des malus tels que **lenteur, faiblesse**, ou autres effets défavorables.
+* **Augmentation de la hauteur maximale de l’avant-poste** : en améliorant le <mark style="color:$primary;">Monolithe</mark>, votre faction pourra construire des structures plus hautes, offrant des avantages tactiques et une meilleure visibilité sur la zone environnante.
 
-***
+### 4. <mark style="color:purple;">Stratégie et Gestion</mark>
 
-### <mark style="color:orange;">S</mark><mark style="color:orange;">**econd**</mark>
+Protéger et améliorer le Monolithe demande de la **planification et de la coordination** :
 
-<mark style="color:yellow;">**Prérequis**</mark>**&#x20;:**
+* Positionnez vos obsidiennes et renforcez vos défenses selon le type de <mark style="color:$primary;">dynamite</mark> que vos adversaires pourraient utiliser.
+* Préparez des avant-postes autour du <mark style="color:$primary;">Monolithe</mark> pour servir de lignes de défense secondaires et ralentir les intrus.
+* Priorisez l’amélioration du <mark style="color:$primary;">Monolithe</mark> pour maximiser les effets bénéfiques et négatifs, et tirer parti de la hauteur supplémentaire autorisée pour vos constructions.
+* Coordonnez votre faction pour défendre simultanément le <mark style="color:$primary;">Monolithe</mark> et gérer vos ressources et coffres à proximité.
 
-* Niveau 25
-* 100 000 Berries
-* 290 points de dangerosité
+### 5. <mark style="color:purple;">En Résumé</mark>
 
-<mark style="color:yellow;">**Avantages**</mark>**&#x20;:**
+Le <mark style="color:$primary;">Monolithe</mark> est bien plus qu’un simple bloc : il est le **centre stratégique de votre faction**, le pivot de vos <mark style="color:$primary;">raids</mark> et la clé de votre progression dans <mark style="color:purple;">Linesia</mark>.
 
-* Accès au <mark style="color:yellow;">**`/kit Second`**</mark>
-* Accès à <mark style="color:yellow;">**3 homes**</mark>
-* Accès à <mark style="color:yellow;">**5 ventes**</mark> dans l’Hôtel des Ventes
-* Accès à <mark style="color:yellow;">**10 coffres de vente**</mark>
-* Accès aux commandes <mark style="color:yellow;">**`/ptime`**</mark> et <mark style="color:yellow;">**`/craft`**</mark>
+* Il **définit votre claim** et doit être **protégé à tout prix**.
+* Il peut être **amélioré pour offrir des bonus et malus stratégiques**, modifiant les combats et l’organisation des factions.
+* La **défense et la gestion du&#x20;**<mark style="color:$primary;">**Monolithe**</mark> sont désormais des éléments centraux des raids et des affrontements entre factions.
+
+En maîtrisant la gestion et la protection du <mark style="color:$primary;">Monolithe</mark>, une faction peut non seulement sécuriser ses ressources mais aussi imposer sa puissance sur <mark style="color:purple;">Linesia</mark>, transformant chaque attaque et chaque défense en un véritable défi stratégique.
 
 ***
-
-### <mark style="color:orange;">C</mark><mark style="color:orange;">**apitaine**</mark>
-
-<mark style="color:yellow;">**Prérequis**</mark>**&#x20;:**
-
-* Niveau 35
-* 500 000 Berries
-* 520 points de dangerosité
-
-<mark style="color:yellow;">**Avantages**</mark>**&#x20;:**
-
-* Accès au <mark style="color:yellow;">**`/kit Capitaine`**</mark>
-* Accès à <mark style="color:yellow;">**4 homes**</mark>
-* Accès à <mark style="color:yellow;">**6 ventes**</mark> dans l’Hôtel des Ventes
-* Accès à <mark style="color:yellow;">**12 coffres de vente**</mark>
-* Accès au <mark style="color:yellow;">**Haki de l'observation**</mark>
-* Accès aux commandes <mark style="color:yellow;">**`/furnace`**</mark> et <mark style="color:yellow;">**`/condense`**</mark>
-* <mark style="color:yellow;">**2 tickets Impel Down**</mark>
-
-***
-
-### <mark style="color:orange;">S</mark><mark style="color:orange;">**upernovae**</mark>
-
-<mark style="color:yellow;">**Prérequis**</mark>**&#x20;:**
-
-* Niveau 45
-* 2 500 000 Berries
-* 800 points de dangerosité
-
-<mark style="color:yellow;">**Avantages**</mark>**&#x20;:**
-
-* Accès au <mark style="color:yellow;">**`/kit Supernovae`**</mark>
-* Accès à <mark style="color:yellow;">**5 homes**</mark>
-* Accès à <mark style="color:yellow;">**7 ventes**</mark> dans l’Hôtel des Ventes
-* Accès à <mark style="color:yellow;">**14 coffres de vente**</mark>
-* Accès à l’interface <mark style="color:yellow;">**\[i]**</mark>
-* Déblocage d’un <mark style="color:yellow;">**3ᵉ familier**</mark>
-
-***
-
-### <mark style="color:orange;">C</mark><mark style="color:orange;">**ommandant**</mark>
-
-<mark style="color:yellow;">**Prérequis**</mark>**&#x20;:**
-
-* Niveau 55
-* 15 000 000 Berries
-* 1 320 points de dangerosité
-
-<mark style="color:yellow;">**Avantages**</mark>**&#x20;:**
-
-* Accès au <mark style="color:yellow;">**`/kit Commandant`**</mark>
-* Accès à <mark style="color:yellow;">**6 homes**</mark>
-* Accès à <mark style="color:yellow;">**8 ventes**</mark> dans l’Hôtel des Ventes
-* Accès à <mark style="color:yellow;">**16 coffres de vente**</mark>
-* Accès au <mark style="color:yellow;">**Haki de l'armement**</mark>
-* Accès à la commande <mark style="color:yellow;">**`/ec`**</mark>
-* Accès au <mark style="color:yellow;">**Nouveau Monde**</mark>
-
-***
-
-### <mark style="color:orange;">C</mark><mark style="color:orange;">**orsaire**</mark>
-
-<mark style="color:yellow;">**Prérequis**</mark>**&#x20;:**
-
-* Niveau 65
-* 50 000 000 Berries
-* 2 010 points de dangerosité
-
-<mark style="color:yellow;">**Avantages**</mark>**&#x20;:**
-
-* Accès au <mark style="color:yellow;">**`/kit Corsaire`**</mark>
-* Accès au <mark style="color:yellow;">**Haki des rois**</mark>
-* Accès à <mark style="color:yellow;">**8 homes**</mark>
-* Accès à <mark style="color:yellow;">**12 ventes**</mark> dans l’Hôtel des Ventes
-* Accès à <mark style="color:yellow;">**20 coffres de vente**</mark>
-* Accès aux commandes <mark style="color:yellow;">**`/back`**</mark> et <mark style="color:yellow;">**`/furnace all`**</mark>
-* <mark style="color:yellow;">**3 tickets Impel Down**</mark>
-
-***
-
-### <mark style="color:orange;">E</mark><mark style="color:orange;">**mpereur**</mark>
-
-<mark style="color:yellow;">**Prérequis**</mark>**&#x20;:**
-
-* Niveau 75
-* 250 000 000 Berries
-* 2 760 points de dangerosité
-
-<mark style="color:yellow;">**Avantages**</mark>**&#x20;:**
-
-* Accès au <mark style="color:yellow;">**`/kit Empereur`**</mark>
-* Accès à <mark style="color:yellow;">**10 homes**</mark>
-* Accès à <mark style="color:yellow;">**15 ventes**</mark> dans l’Hôtel des Ventes
-* Accès à <mark style="color:yellow;">**25 coffres de vente**</mark>
-* Accès au <mark style="color:yellow;">**`/fly`**</mark> dans sa base
-* Déblocage d’un <mark style="color:yellow;">**4ᵉ familier**</mark>
-
-***
-
-### <mark style="color:red;">Roi des Pirates</mark>
-
-{% hint style="warning" %}
-Bientôt disponible !
-{% endhint %}
-
-{% hint style="success" %}
-Ne tardez pas, augmentez l'intensité de votre aventure en <mark style="color:yellow;">**progressant**</mark> dans les <mark style="color:yellow;">**rangs**</mark> sur <mark style="color:yellow;">**MinePiece**</mark> !
-{% endhint %}

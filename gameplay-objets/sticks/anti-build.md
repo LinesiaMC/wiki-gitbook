@@ -8,13 +8,13 @@ description: >-
 
 ***
 
-#### Le Stick Anti-Build : bloquer toute interaction avec l’environnement
+#### <mark style="color:purple;">Le Stick Anti-Build : bloquer toute interaction avec l’environnement</mark>
 
-Le **Stick Anti-Build** est un objet spécial disponible sur **Linesia**. Son effet unique empêche un joueur touché d’interagir avec les blocs ou les éléments de l’environnement. Il devient ainsi incapable de modifier le terrain ou de se protéger, ce qui en fait un outil extrêmement puissant lors d’un combat ou d’un siège.
+Le **Stick&#x20;**<mark style="color:green;">**Anti-Build**</mark> est un objet spécial disponible sur <mark style="color:purple;">**Linesia**</mark>. Son effet unique empêche un joueur touché d’interagir avec les blocs ou les éléments de l’environnement. Il devient ainsi incapable de modifier le terrain ou de se protéger, ce qui en fait un outil extrêmement puissant lors d’un combat ou d’un siège.
 
 ***
 
-#### Effets du Stick Anti-Build
+#### <mark style="color:purple;">Effets du Stick Anti-Build</mark>
 
 Lorsqu’un joueur est sous l’effet de ce stick, il ne peut plus :
 
@@ -26,7 +26,7 @@ Lorsqu’un joueur est sous l’effet de ce stick, il ne peut plus :
 
 ***
 
-#### Comment obtenir un Stick Anti-Build ?
+#### <mark style="color:purple;">Comment obtenir un Stick Anti-Build ?</mark>
 
 Tu peux l’obtenir de différentes manières :
 
@@ -39,8 +39,8 @@ Tu peux l’obtenir de différentes manières :
 
 ***
 
-#### En résumé
+#### <mark style="color:purple;">En résumé</mark>
 
-Le Stick Anti-Build est une arme redoutable pour neutraliser les constructions et empêcher toute interaction avec l’environnement. Que ce soit pour empêcher un ennemi de fuir, de se barricader ou de poser un piège, il s’agit d’un outil essentiel pour prendre le dessus sur **Linesia**.
+Le Stick <mark style="color:green;">Anti-Build</mark> est une arme redoutable pour neutraliser les constructions et empêcher toute interaction avec l’environnement. Que ce soit pour empêcher un ennemi de fuir, de se barricader ou de poser un piège, il s’agit d’un outil essentiel pour prendre le dessus sur <mark style="color:purple;">**Linesia**</mark>.
 
 ***

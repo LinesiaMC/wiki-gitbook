@@ -8,13 +8,13 @@ description: >-
 
 ***
 
-#### Le Stick d’Effect : influencer le combat autour de toi
+#### <mark style="color:purple;">Le Stick d’Effect : influencer le combat autour de toi</mark>
 
 Le **Stick d’Effect** est un objet spécial disponible sur **Linesia**. Il permet de **modifier temporairement les effets de statut** des joueurs autour de toi dans un rayon défini. Cet outil est idéal pour prendre l’avantage lors des combats de groupe ou pour protéger tes alliés tout en affaiblissant les ennemis.
 
 ***
 
-#### Effets du Stick d’Effect
+#### <mark style="color:purple;">Effets du Stick d’Effect</mark>
 
 Lorsque tu l’utilises :
 
@@ -26,7 +26,7 @@ Lorsque tu l’utilises :
 
 ***
 
-#### Comment obtenir un Stick d’Effect ?
+#### <mark style="color:purple;">Comment obtenir un Stick d’Effect ?</mark>
 
 Plusieurs méthodes existent :
 
@@ -39,7 +39,7 @@ Plusieurs méthodes existent :
 
 ***
 
-#### En résumé
+#### <mark style="color:purple;">En résumé</mark>
 
 Le Stick d’Effect est un outil stratégique pour contrôler les combats de groupe : il **affaiblit tes ennemis tout en renforçant tes alliés** dans un rayon de 8 blocs. Obtenable via l’économie du serveur ou le PvP, il offre un avantage décisif pour dominer sur **Linesia**.
 

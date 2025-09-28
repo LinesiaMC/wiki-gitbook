@@ -28,7 +28,7 @@ L’armure en <mark style="color:purple;">Améthyste</mark> est l’une des armu
 ***
 
 **A : Casque en&#x20;**<mark style="color:purple;">**Améthyste**</mark>**&#x20;:**\
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 ***
 
@@ -38,11 +38,11 @@ L’armure en <mark style="color:purple;">Améthyste</mark> est l’une des armu
 ***
 
 **C : Jambières en&#x20;**<mark style="color:purple;">**Améthyste**</mark>**&#x20;:**\
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 ***
 
 **D : Bottes en&#x20;**<mark style="color:purple;">**Améthsyte**</mark>**&#x20;:**\
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 ***

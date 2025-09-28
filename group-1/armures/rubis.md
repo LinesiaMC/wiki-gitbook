@@ -40,12 +40,12 @@ L’armure en <mark style="color:red;">Rubis</mark> est l’une des armures embl
 ***
 
 **C : Jambières en&#x20;**<mark style="color:red;">**Rubis**</mark>**&#x20;:**\
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 ***
 
 **D : Bottes en&#x20;**<mark style="color:red;">**Rubis**</mark>**&#x20;:**\
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 ***
 

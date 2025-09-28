@@ -2,7 +2,7 @@
 
 ***
 
-## <mark style="color:purple;background-color:purple;">Le Minage de Feu sur Linesia</mark>
+## <mark style="color:purple;">Le Minage de Feu sur Linesia</mark>
 
 <mark style="color:purple;">**Linesia**</mark> est un environnement unique où l’exploration et le minage occupent une place centrale dans le développement des joueurs.
 
@@ -21,7 +21,7 @@ Dans cette mine, vous devrez faire attention et venir avec votre meilleur équip
 
 ### 2. <mark style="color:purple;">Le But de la Mine</mark>
 
-Le minage de feu sur Linesia ne consiste pas seulement à accumuler des ressources ; il répond à plusieurs objectifs stratégiques :
+Le minage de feu sur <mark style="color:purple;">Linesia</mark> ne consiste pas seulement à accumuler des ressources ; il répond à plusieurs objectifs stratégiques :
 
 * <mark style="color:purple;">**Renforcer son équipement**</mark> : Les minerais de feu et roches volcaniques permettent de créer armures et outils spécifiques.
 * <mark style="color:purple;">**Accélérer sa progression**</mark> : Les roches volcaniques et certaines entités rares offrent des avantages stratégiques et sont souvent limitées en quantité. Les récolter rapidement est un véritable atout.
@@ -29,7 +29,7 @@ Le minage de feu sur Linesia ne consiste pas seulement à accumuler des ressourc
 
 ### 3. <mark style="color:purple;">Stratégies de Minage</mark>
 
-Pour tirer le meilleur parti de la mine de feu sur Linesia, il est essentiel de combiner **observation, anticipation et rapidité** :
+Pour tirer le meilleur parti de la mine de feu sur <mark style="color:purple;">Linesia</mark>, il est essentiel de combiner **observation, anticipation et rapidité** :
 
 * <mark style="color:purple;">**Explorer méthodiquement**</mark> : Identifier les zones riches en blocs, roches volcaniques et entités de feu, et prévoir les itinéraires de collecte.
 * <mark style="color:purple;">**Prioriser les ressources rares**</mark> : Les roches volcaniques et les boss/mobs puissants doivent être récoltés en priorité pour maximiser l’efficacité et les récompenses.
@@ -38,6 +38,6 @@ Pour tirer le meilleur parti de la mine de feu sur Linesia, il est essentiel de 
 
 ***
 
-
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ***

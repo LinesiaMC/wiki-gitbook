@@ -8,13 +8,13 @@ description: >-
 
 ***
 
-#### Le Stick de View : espionner l’inventaire de ton adversaire
+#### <mark style="color:purple;">Le Stick de View : espionner l’inventaire de ton adversaire</mark>
 
-Le **Stick de View** est un objet spécial disponible sur **Linesia**. Il permet d’obtenir un **aperçu de certaines ressources clés** que possède ton adversaire. Cet outil est précieux pour évaluer ses réserves avant ou pendant un combat et adapter ta stratégie en conséquence.
+Le **Stick de&#x20;**<mark style="color:yellow;">**View**</mark> est un objet spécial disponible sur <mark style="color:purple;">**Linesia**</mark>. Il permet d’obtenir un **aperçu de certaines ressources clés** que possède ton adversaire. Cet outil est précieux pour évaluer ses réserves avant ou pendant un combat et adapter ta stratégie en conséquence.
 
 ***
 
-#### Effet du Stick de View
+#### <mark style="color:purple;">Effet du Stick de View</mark>
 
 Lorsque tu l’utilises sur un joueur, tu peux voir combien il possède de :
 
@@ -25,7 +25,7 @@ Lorsque tu l’utilises sur un joueur, tu peux voir combien il possède de :
 
 ***
 
-#### Comment obtenir un Stick de View ?
+#### <mark style="color:purple;">Comment obtenir un Stick de View ?</mark>
 
 Plusieurs moyens existent pour s’en procurer :
 
@@ -38,8 +38,8 @@ Plusieurs moyens existent pour s’en procurer :
 
 ***
 
-#### En résumé
+#### <mark style="color:purple;">En résumé</mark>
 
-Le Stick de View est un outil d’information stratégique, permettant de **connaître les réserves vitales de ton adversaire**. Facilement accessible via l’économie du serveur ou par le PvP, il t’offre un avantage tactique considérable sur **Linesia**.
+Le Stick de <mark style="color:yellow;">View</mark> est un outil d’information stratégique, permettant de **connaître les réserves vitales de ton adversaire**. Facilement accessible via l’économie du serveur ou par le PvP, il t’offre un avantage tactique considérable sur <mark style="color:purple;">**Linesia**</mark>.
 
 ***

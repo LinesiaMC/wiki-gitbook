@@ -2,7 +2,7 @@
 
 ***
 
-## <mark style="color:purple;background-color:purple;">Le Minage sur Linesia</mark>
+## <mark style="color:purple;">Le Minage sur Linesia</mark>
 
 <mark style="color:purple;">**Linesia**</mark> est un environnement unique où l’exploration et le minage occupent une place centrale dans le développement stratégique des joueurs. Contrairement à d’autres modes de jeu, le minage ici ne se limite pas à récolter des ressources de manière passive ; il est au cœur de la progression.
 
