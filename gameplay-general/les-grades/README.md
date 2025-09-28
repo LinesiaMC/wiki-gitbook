@@ -2,7 +2,7 @@
 description: Retrouvez ici toutes les informations concernant les grades
 ---
 
-# 👑 Le Minage
+# 💰 Le Minage
 
 Des <mark style="color:yellow;">**grades achetables**</mark> avec des <mark style="color:green;">**Gemmes**</mark> ou <mark style="color:yellow;">**obtenables**</mark> dans les <mark style="color:yellow;">**Caisses**</mark> sont <mark style="color:yellow;">**disponibles**</mark> sur le serveur <mark style="color:yellow;">**MinePiece**</mark>.
 
@@ -10,7 +10,7 @@ Pour les acquérir, il vous suffit d'<mark style="color:yellow;">**acheter**</ma
 
 En faisant la commande <mark style="color:yellow;">**`/boutique`**</mark> un menu s'ouvrira dans lequel vous pourrez <mark style="color:yellow;">**acheter**</mark> votre <mark style="color:yellow;">**grade**</mark>.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-24 à 16.19.23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-07-24 à 16.19.23.png" alt=""><figcaption></figcaption></figure>
 
 Il vous suffit de <mark style="color:yellow;">**cliquer en bas**</mark> du <mark style="color:yellow;">**grade de votre choix**</mark> pour l'<mark style="color:yellow;">**acheter**</mark>.
 

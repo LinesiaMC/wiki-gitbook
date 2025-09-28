@@ -28,12 +28,12 @@ L’armure en <mark style="color:purple;">Améthyste</mark> est l’une des armu
 ***
 
 **A : Casque en&#x20;**<mark style="color:purple;">**Améthyste**</mark>**&#x20;:**\
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 ***
 
 **B : Plastron en&#x20;**<mark style="color:purple;">**Améthyste**</mark>**&#x20;:**\
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 ***
 

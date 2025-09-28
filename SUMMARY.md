@@ -17,13 +17,16 @@
 
 ## 🎮 Gameplay - Général
 
-* [🏝️ Bien débuter](gameplay-partie-generale/les-equipages/README.md)
+* [👑 Bien débuter](gameplay-partie-generale/les-equipages/README.md)
 * [⚙️ Les Prestiges](gameplay-general/les-prestiges-dile.md)
-* [👷 La FarmZone](gameplay-partie-generale/les-metiers.md)
+* [🧑‍🌾 La FarmZone](gameplay-partie-generale/les-metiers.md)
+* [💰 Le Minage](gameplay-general/les-grades/README.md)
+  * [🪨 Minage Clasique](gameplay-general/les-grades/minage-clasique.md)
+  * [💧 Minage Glace](gameplay-general/les-grades/minage-glace.md)
+  * [🔥 Minage Feu](gameplay-general/les-grades/minage-feu.md)
 * [🗒️ La Decoration](gameplay-partie-generale/les-quetes.md)
 * [🗡️ Les Avant-Postes](gameplay-partie-generale/le-pass-de-combat.md)
 * [🏅 Les Raids de Factions](gameplay-partie-generale/les-rangs.md)
-* [👑 Le Minage](gameplay-partie-generale/les-grades.md)
 * [🎁 Le Farming](gameplay-partie-generale/les-caisses.md)
 * [🎣 La Pêche](gameplay-partie-generale/la-peche.md)
 * [😈 Le PvP](gameplay-partie-generale/les-fruits-du-demon.md)

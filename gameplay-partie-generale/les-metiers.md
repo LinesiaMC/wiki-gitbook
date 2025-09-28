@@ -1,75 +1,66 @@
 ---
-description: Retrouvez ici toutes les informations concernant les métiers
+description: La FarmZone est un endroit très utile pour votre développement sur Linesia.
 ---
 
-# 👷 La FarmZone
+# 🧑‍🌾 La FarmZone
 
-Maintenant que vous savez tout sur :island: [<mark style="color:orange;">**Les équipages**</mark>](les-equipages/), il est temps d'en apprendre plus sur les <mark style="color:yellow;">**moyens de gagner des récompenses**</mark> sur le serveur.
+***
 
-Sur <mark style="color:yellow;">**MinePiece**</mark>, vous avez la possibilité d’exercer jusqu’à <mark style="color:yellow;">**4 métiers différents**</mark>, chacun avec ses propres <mark style="color:yellow;">**actions**</mark>, <mark style="color:yellow;">**niveaux**</mark>, <mark style="color:yellow;">**récompenses**</mark> et <mark style="color:yellow;">**gains**</mark>. Travailler dans un métier vous permet de gagner de l’<mark style="color:yellow;">**argent (Berrys)**</mark> ainsi que de l’<mark style="color:yellow;">**expérience de métier**</mark>, tout en obtenant des <mark style="color:yellow;">**récompenses exclusives**</mark> au fil de votre progression.
+### <mark style="color:purple;">La Farmzone : zone stratégique pour progresser et s’entraîner</mark>
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-23 à 14.29.54.png" alt=""><figcaption></figcaption></figure>
+La <mark style="color:$danger;">**FarmZone**</mark> est une zone centrale et sécurisée du serveur <mark style="color:purple;">**Linesia**</mark>, conçue pour permettre aux joueurs de se préparer avant de plonger dans le <mark style="color:red;">PvP</mark> ou les zones plus risquées. Elle combine **activités agricoles, minières et de chasse**, offrant une expérience complète aux nouveaux joueurs comme aux vétérans. La <mark style="color:$danger;">FarmZone</mark> est également au cœur des mécaniques de **prestiges et de quêtes**, permettant de monter en niveaux et d’obtenir des récompenses uniques.
 
-## <mark style="color:orange;">Les 4 Métiers Disponibles</mark>
+***
 
-| Métier                                          | Actions possibles       |
-| ----------------------------------------------- | ----------------------- |
-| <mark style="color:yellow;">**Fermier**</mark>  | Casser, Poser, Récolter |
-| <mark style="color:yellow;">**Mineur**</mark>   | Casser                  |
-| <mark style="color:yellow;">**Bûcheron**</mark> | Casser, Cuire, Écorcer  |
-| <mark style="color:yellow;">**Pêcheur**</mark>  | Pêcher, Cuire           |
+## 1. <mark style="color:purple;">Accès au Minage</mark>
 
-{% hint style="success" %}
-Chaque action accomplie avec les bons outils sur les bons blocs ou entités rapporte une certaine <mark style="color:yellow;">**quantité d’expérience**</mark> et de <mark style="color:yellow;">**Berrys**</mark>.
+Au sein de la <mark style="color:$danger;">FarmZone</mark>, un accès direct permet de rejoindre le <mark style="color:$primary;">**Minage**</mark> :
 
-Vous pouvez consulter la liste complète des gains par action et par item en jeu.
-{% endhint %}
+* Frapper des **entités de minerai** avec une pioche pour obtenir des ressources rares comme le <mark style="color:blue;">**diamant**</mark>, le <mark style="color:red;">**rubis**</mark> et l’<mark style="color:purple;">**améthyste**</mark>.
+* Relier la partie agricole de la <mark style="color:$danger;">FarmZone</mark> à la collecte de minerais, permettant de combiner plusieurs activités en un seul endroit.
+* Les minerais récoltés sont **vendables au shop**, tout comme les loots des mobs et les récoltes agricoles.
 
-## <mark style="color:orange;">Système de Niveaux</mark>
+***
 
-Chaque métier dispose de <mark style="color:yellow;">**200 niveaux**</mark><mark style="color:yellow;">,</mark> soit un total de <mark style="color:yellow;">**800 niveaux à atteindre**</mark> si vous montez les 4 métiers à leur maximum.
+## 2. <mark style="color:purple;">Champs et plantations</mark>
 
-À chaque niveau atteint, vous obtenez une <mark style="color:yellow;">**récompense**</mark> que vous pouvez récupérer à tout moment avec la commande suivante : <mark style="color:yellow;">**`/jobs claim`**</mark>
+La <mark style="color:$danger;">FarmZone</mark> comprend de **multiples champs de cultures** :
 
-## <mark style="color:orange;">Récompenses de Métiers</mark>
+* **Cultures disponibles** : <mark style="color:orange;">Carottes</mark>, <mark style="color:red;">Betteraves</mark>, <mark style="color:yellow;">Blé</mark>, <mark style="color:$warning;">Pommes de terre</mark>.
+* **Mécanique spéciale** : Les plantations se **replantent automatiquement** après récolte, mais il faut attendre qu’elles soient **entièrement poussées**, sinon elles sont **incassables**.
+* **Utilité** : Les ressources servent a faire ses propres Farm ou **être vendues au shop**, offrant une source de revenus continue pour progresser.
 
-En progressant dans les métiers, vous obtiendrez potentiellement :
+***
 
-* Des <mark style="color:yellow;">**Berrys**</mark>
-* Des <mark style="color:yellow;">**objets utiles**</mark> ou <mark style="color:yellow;">**rares**</mark>
-* Des <mark style="color:yellow;">**améliorations de statistiques**</mark> _(chaque métier apporte des stats. différentes)_
-* Des récompenses exclusives selon le métier
+## 3. <mark style="color:purple;">Mobs moddés de la Farmzone</mark>
 
-Les récompenses sont cumulatives : plus vous avancez dans un métier, plus elles deviennent <mark style="color:yellow;">**précieuses**</mark> et <mark style="color:yellow;">**spécialisées**</mark> pour votre style de jeu (farming, minage, pêche, etc.).
+La zone est peuplée de **mobs moddés**, offrant des combats PvE intéressants et des loots variés :
 
-## <mark style="color:orange;">Menu</mark>
+* <mark style="color:$warning;">**Sangliers**</mark> : agressifs et rapides, fournissent des ressources utiles.
+* <mark style="color:$info;">**Cerfs**</mark> : pacifiques, mais leurs loots sont précieux.
+* <mark style="color:$success;">**Crocodiles**</mark> : dangereux près de l’eau, avec des drops intéressants.
+* <mark style="color:$warning;">**Girafes**</mark> : mobs pacifiques, donnant certains drops rares.
+* <mark style="color:$primary;">**Éléphants**</mark> : puissants et imposants, source de ressources rares.
 
-Toutes les <mark style="color:yellow;">**informations essentielles**</mark> sur les métiers sont condensées dans le menu <mark style="color:yellow;">**`/jobs`**</mark>.
+Tous ces loots, combinés aux récoltes et aux minerais, sont **vendables au shop**, permettant de générer des revenus réguliers et d’optimiser sa progression.
 
-Retrouvez-y :
+***
 
-* Votre <mark style="color:yellow;">**niveau de progression**</mark>.
-* Les <mark style="color:yellow;">**actions rémunérées**</mark>.
-* Les <mark style="color:yellow;">**gains**</mark> associés à chaque action.
-* Le <mark style="color:yellow;">**classement**</mark>.
+## 4. <mark style="color:purple;">La Farmzone et les prestiges</mark>
 
-Explorez le <mark style="color:yellow;">**`/jobs`**</mark> pour suivre <mark style="color:yellow;">**votre évolution**</mark> et maximiser vos <mark style="color:yellow;">**récompenses**</mark> ! 🌟
+La <mark style="color:$danger;">FarmZone</mark> est également **le centre des quêtes de prestige** :
 
-## <mark style="color:orange;">Commandes</mark>
+* En effectuant diverses activités — **récolte, chasse de mobs, collecte de minerais** — les joueurs gagnent des points pour progresser dans leur prestige.
+* Les zones de Minage supplémentaires, comme <mark style="color:blue;">**Glace**</mark> et <mark style="color:orange;">**Feu**</mark>, seront débloquées avec les prestiges, offrant des ressources plus rares et des défis supplémentaires.
 
-{% hint style="success" %}
-`[...]` Signifie que le paramètre est obligatoire
+Ainsi, la <mark style="color:$danger;">FarmZone</mark> combine :
 
-`<...>` Signifie que vous pouvez mettre une chaine de caractères avec des espaces
+* **Exploration**
+* **Collecte de ressources**
+* **Revenus au shop**
+* **PvE**
+* **Quêtes de prestige**
 
-`{...}` Signifie que le paramètre est optionnel
-{% endhint %}
+C’est un **point central de progression** pour tous les joueurs, leur permettant de se préparer efficacement avant de se lancer dans le <mark style="color:red;">PvP</mark> ou les zones plus avancées du serveur.
 
-Voici les commandes à connaître pour <mark style="color:yellow;">**gérer vos métiers**</mark> :
-
-* <mark style="color:yellow;">**`/jobs`**</mark> - Commande pour ouvrir le menu des métiers.
-* <mark style="color:yellow;">**`/jobs stats`**</mark> - Commande pour afficher ses niveaux de métier.
-
-{% hint style="success" %}
-C'est parti, commencez dès à présent à vous enrichir en progressant dans vos métiers !
-{% endhint %}
+***
