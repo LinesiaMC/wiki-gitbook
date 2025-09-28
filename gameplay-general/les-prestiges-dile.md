@@ -4,11 +4,11 @@ description: Retrouvez ici toutes les informations concernant les prestiges de v
 
 # ⚙️ Les Prestiges
 
-Comme vous avez pu le voir dans la précédente section sur :island: [<mark style="color:orange;">**Les équipages**</mark>](../../gameplay-general/les-equipages.md), des <mark style="color:yellow;">**améliorations**</mark> sont <mark style="color:yellow;">**disponibles**</mark> pour celles-ci. Ce sont les <mark style="color:yellow;">**prestiges d'île**</mark>.
+Comme vous avez pu le voir dans la précédente section sur :island: [<mark style="color:orange;">**Les équipages**</mark>](../gameplay-partie-generale/les-equipages/), des <mark style="color:yellow;">**améliorations**</mark> sont <mark style="color:yellow;">**disponibles**</mark> pour celles-ci. Ce sont les <mark style="color:yellow;">**prestiges d'île**</mark>.
 
 Il en existe un total de <mark style="color:yellow;">**7 achetables**</mark> de <mark style="color:yellow;">**2 manières**</mark>, avec de l'<mark style="color:yellow;">**argent**</mark> en jeu dans le menu <mark style="color:yellow;">**`/prestige`**</mark> ou avec des <mark style="color:green;">**Gemmes**</mark>.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-07-22 à 15.14.57.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-22 à 15.14.57.png" alt=""><figcaption></figcaption></figure>
 
 Dans cette section, nous détaillerons les <mark style="color:yellow;">**caractéristiques**</mark> de chacun des <mark style="color:yellow;">**7 prestiges d'île**</mark>.
 
@@ -99,5 +99,5 @@ Après quelques heures de jeu sur le serveur, vous parviendrez sûrement à <mar
 <table><thead><tr><th width="340">Caractéristique</th><th>Niveau / Pourcentage / Quantité</th></tr></thead><tbody><tr><td><mark style="color:yellow;"><strong>Générateur</strong></mark></td><td><mark style="color:yellow;"><strong>8</strong></mark></td></tr><tr><td><mark style="color:yellow;"><strong>Taille d'île</strong></mark></td><td><mark style="color:yellow;"><strong>450*450</strong></mark></td></tr><tr><td><mark style="color:yellow;"><strong>Limite d'Entonnoirs</strong></mark></td><td><mark style="color:yellow;"><strong>312</strong></mark></td></tr><tr><td><mark style="color:yellow;"><strong>Coffre d'île</strong></mark></td><td><mark style="color:yellow;"><strong>9</strong></mark></td></tr><tr><td><strong>Limite de Membres</strong></td><td><strong>10</strong></td></tr><tr><td><mark style="color:yellow;"><strong>Limite de Warp</strong></mark></td><td><mark style="color:yellow;"><strong>8</strong></mark></td></tr><tr><td><mark style="color:yellow;"><strong>Vitesse de Pousse</strong></mark></td><td><mark style="color:yellow;"><strong>+30%</strong></mark></td></tr></tbody></table>
 
 {% hint style="success" %}
-La section sur [<mark style="color:orange;">**Les Prestiges d'île**</mark>](./) est maintenant terminée.
+La section sur [<mark style="color:orange;">**Les Prestiges d'île**</mark>](les-prestiges-dile.md) est maintenant terminée.
 {% endhint %}
