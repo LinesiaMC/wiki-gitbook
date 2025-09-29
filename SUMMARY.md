@@ -85,14 +85,14 @@
     * [Hache en Onyx](gameplay-objets/outils/onyx/hache-en-onyx.md)
     * [Pioche en Onyx](gameplay-objets/outils/onyx/pioche-en-onyx.md)
     * [Houe en Onyx](gameplay-objets/outils/onyx/houe-en-onyx.md)
-* [Objets Spéciaux](gameplay-objets/objets-speciaux/README.md)
+* [🎥 Objets Spéciaux](gameplay-objets/objets-speciaux/README.md)
   * [🏐 SwitchBall](gameplay-objets/objets-speciaux/switchball.md)
-  * [EggTrap](gameplay-objets/objets-speciaux/eggtrap.md)
-  * [Bump](gameplay-objets/objets-speciaux/bump.md)
-  * [Glider](gameplay-objets/objets-speciaux/glider.md)
-  * [Grappin](gameplay-objets/objets-speciaux/grappin.md)
-  * [Chorus](gameplay-objets/objets-speciaux/chorus.md)
-  * [Dynamite](gameplay-objets/objets-speciaux/dynamite.md)
+  * [🥚 EggTrap](gameplay-objets/objets-speciaux/eggtrap.md)
+  * [⬆️ Bump](gameplay-objets/objets-speciaux/bump.md)
+  * [🪂 Glider](gameplay-objets/objets-speciaux/glider.md)
+  * [🏹 Grappin](gameplay-objets/objets-speciaux/grappin.md)
+  * [🫐 Chorus](gameplay-objets/objets-speciaux/chorus.md)
+  * [💥 Dynamite](gameplay-objets/objets-speciaux/dynamite.md)
 
 ## 🔗 GamePlay - Autres
 
@@ -109,6 +109,22 @@
 * [Hôtel De Vente](les-commandes/hotel-de-vente.md)
 * [Jetons](les-commandes/jetons.md)
 * [Paramètres en Jeu](les-commandes/parametres-en-jeu.md)
+
+## 🕦 Evènements
+
+* [💶 L'Oupost](evenements/loupost.md)
+* [💪 Le Domination](evenements/le-domination.md)
+* [🔮 Le Nexus](evenements/le-nexus.md)
+* [🗽 Le Totem](evenements/le-totem.md)
+* [💲 L'AFK Money](evenements/lafk-money.md)
+
+## 🎁 Les Boxs
+
+* [✅ Box Vote](les-boxs/box-vote.md)
+* [🧑‍🌾 Box Farm](les-boxs/box-farm.md)
+* [❄️ Box Glace](les-boxs/box-glace.md)
+* [🔥 Box Feu](les-boxs/box-feu.md)
+* [👑 Box Légendaire](les-boxs/box-legendaire.md)
 
 ## 🔮 Gameplay - Les Grades
 

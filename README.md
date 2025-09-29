@@ -19,18 +19,18 @@ Vous y retrouverez <mark style="color:purple;">**toutes les fonctionnalités du 
 * [x] le farming
 * [x] la peche
 * [x] le pvp
-* [ ] les quetes
-* [ ] les items
-* [ ] plugin de faction
-* [ ] les stats
-* [ ] le cooldown
-* [ ] les classements
-* [ ] cosmetics
-* [ ] shop
-* [ ] hdv
-* [ ] money plugin
-* [ ] tokens
-* [ ] settings
+* [x] les quetes
+* [x] les items
+* [x] plugin de faction
+* [x] les stats
+* [x] le cooldown
+* [x] les classements
+* [x] cosmetics
+* [x] shop
+* [x] hdv
+* [x] money plugin
+* [x] tokens
+* [x] settings
 * [ ] les boxs
 * [ ] les events
 

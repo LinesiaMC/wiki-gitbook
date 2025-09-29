@@ -6,7 +6,7 @@ description: Comment avoir un bon début sur Linesia ?
 
 ***
 
-### 🧭 <mark style="color:purple;background-color:purple;">Introduction au serveur KitMap de Linesia</mark>
+### 🧭 <mark style="color:purple;">Introduction au serveur KitMap de Linesia</mark>
 
 Le serveur KitMap de <mark style="color:purple;">**Linesia**</mark> est un environnement <mark style="color:red;">PvP</mark> intense où les joueurs s'affrontent en utilisant des kits prédéfinis. L'objectif est de dominer le terrain, d'éliminer les adversaires et de contrôler des zones stratégiques.
 
@@ -21,7 +21,7 @@ Le serveur KitMap de <mark style="color:purple;">**Linesia**</mark> est un envir
 
 ***
 
-### ⚔️ <mark style="color:purple;background-color:purple;">Comprendre le gameplay KitMap</mark>
+### ⚔️ <mark style="color:purple;">Comprendre le gameplay KitMap</mark>
 
 * <mark style="color:purple;">**Kits prédéfinis**</mark> : Au lieu de collecter des ressources dès le début de votre avanture, vous disposez de kits avec des équipements spécifiques.
 * <mark style="color:purple;">**Zones de combat**</mark> : Les zones sont souvent restreintes, encourageant les affrontements rapides.
@@ -38,7 +38,7 @@ Le serveur KitMap de <mark style="color:purple;">**Linesia**</mark> est un envir
 
 ***
 
-### 🛡️ <mark style="color:purple;background-color:purple;">Commandes Importantes de Faction</mark>
+### 🛡️ <mark style="color:purple;">Commandes Importantes de Faction</mark>
 
 #### 🔧 <mark style="color:purple;">Commandes principales de Faction sur Linesia</mark> :
 
@@ -60,7 +60,7 @@ Le serveur KitMap de <mark style="color:purple;">**Linesia**</mark> est un envir
 
 ***
 
-### 🧠 <mark style="color:purple;background-color:purple;">Conseils pour débuter avec sa Faction</mark>
+### 🧠 <mark style="color:purple;">Conseils pour débuter avec sa Faction</mark>
 
 * <mark style="color:purple;">**Rejoindre une faction**</mark> : Dès le début, il est conseillé de rejoindre une faction pour bénéficier de protections et de ressources partagées.
 * <mark style="color:purple;">**Revendiquer des terrains**</mark> : Utilisez la commande `/f claim` pour avoir votre zone et protéger vos ressources. (Vous devez obligatoirement être dans une faction)
@@ -69,7 +69,7 @@ Le serveur KitMap de <mark style="color:purple;">**Linesia**</mark> est un envir
 
 ***
 
-## <mark style="color:purple;background-color:purple;">Guide complet pour débuter sur le KitMap de Linesia</mark>
+## <mark style="color:purple;">Guide complet pour débuter sur le KitMap de Linesia</mark>
 
 ### 1. <mark style="color:purple;">Introduction</mark>
 

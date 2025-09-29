@@ -1,5 +1,5 @@
 ---
-description: 'Linesia comporte 3 minages :'
+description: Linesia comporte 3 minages
 ---
 
 # 💰 Le Minage

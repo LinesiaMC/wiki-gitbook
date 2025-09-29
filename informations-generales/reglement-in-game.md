@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/MedalTVMinecraftBedrock20250928173826.png
+cover: ../.gitbook/assets/IMG_0706.jpeg
 coverY: 0
 layout:
   width: default
