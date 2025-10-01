@@ -12,7 +12,7 @@ La Domination est un événement compétitif où les factions s’affrontent pou
 
 #### 1. <mark style="color:purple;">Points de contrôle</mark>
 
-La map est divisée en plusieurs zones appelées **points de contrôle**.
+L'évènement est divisé en plusieurs zones appelées **points de contrôle**.
 
 * Chaque équipe doit capturer un point en restant à l’intérieur pendant un certain temps sans être contestée.
 * La capture nécessite coordination et vigilance, car les ennemis chercheront à vous déloger.

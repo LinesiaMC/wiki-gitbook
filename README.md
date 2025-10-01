@@ -13,33 +13,6 @@ Vous y retrouverez <mark style="color:purple;">**toutes les fonctionnalités du 
 
 ***
 
-* [x] Spawners
-* [x] les ap
-* [x] les raids
-* [x] le farming
-* [x] la peche
-* [x] le pvp
-* [x] les quetes
-* [x] les items
-* [x] plugin de faction
-* [x] les stats
-* [x] le cooldown
-* [x] les classements
-* [x] cosmetics
-* [x] shop
-* [x] hdv
-* [x] money plugin
-* [x] tokens
-* [x] settings
-* [ ] les boxs
-* [ ] les events
-
-
-
-
-
-
-
 1. Le règlement en jeu
 2. le règlement discord
 3. FAQ

@@ -93,6 +93,11 @@
   * [🏹 Grappin](gameplay-objets/objets-speciaux/grappin.md)
   * [🫐 Chorus](gameplay-objets/objets-speciaux/chorus.md)
   * [💥 Dynamite](gameplay-objets/objets-speciaux/dynamite.md)
+* [🧊 Blocs Spéciaux](gameplay-objets/blocs-speciaux/README.md)
+  * [⛔ Bloc Anti-Perle](gameplay-objets/blocs-speciaux/bloc-anti-perle.md)
+  * [↕️ Elévateur](gameplay-objets/blocs-speciaux/elevateur.md)
+  * [🌱 Terre Enrichies](gameplay-objets/blocs-speciaux/terre-enrichies.md)
+  * [👑 Le Monolithe](gameplay-objets/blocs-speciaux/le-monolithe.md)
 
 ## 🔗 GamePlay - Autres
 
@@ -120,13 +125,13 @@
 
 ## 🎁 Les Boxs
 
-* [✅ Box Vote](les-boxs/box-vote.md)
+* [♟️ Box Commune](les-boxs/box-commune.md)
 * [🧑‍🌾 Box Farm](les-boxs/box-farm.md)
 * [❄️ Box Glace](les-boxs/box-glace.md)
 * [🔥 Box Feu](les-boxs/box-feu.md)
 * [👑 Box Légendaire](les-boxs/box-legendaire.md)
 
-## 🔮 Gameplay - Les Grades
+## 🎓 Gameplay - Les Grades
 
-* [🚢 Le Grade Premium](gameplay-partie-aventure/les-bateaux.md)
+* [🎗️ Le Grade Premium](gameplay-partie-aventure/les-bateaux.md)
 * [🔰 Le Grade Elite](gameplay-les-grades/le-grade-elite.md)
