@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🔮 Bienvenue sur Linesia !](README.md)
+* [🔮 Bienvenue sur Le Wiki De Linesia !](README.md)
 
 ## 🧷 Informations générales
 
