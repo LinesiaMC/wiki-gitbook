@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/image wiki box Feu_03573.jpg
+coverY: 0
+---
+
 # 🔥 Box Feu
 
 ***

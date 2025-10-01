@@ -1,4 +1,5 @@
 ---
+cover: ../../.gitbook/assets/image wiki LES Outils_03573.jpg
 coverY: 0
 ---
 

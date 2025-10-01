@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/image wiki nexus_03573.jpg
+coverY: 0
+---
+
 # 🔮 Le Nexus
 
 ***

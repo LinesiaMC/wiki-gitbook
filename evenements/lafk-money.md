@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/image wiki Afk money_03573.jpg
+coverY: 0
+---
+
 # 💲 L'AFK Money
 
 ***

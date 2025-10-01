@@ -7,42 +7,42 @@ coverY: 0
 
 ***
 
-### ⛏️ **Minerais et ressources sur Linesia**
+## ⛏️ <mark style="color:purple;">**Minerais et ressources sur Linesia**</mark>
 
-#### 1. **Diamant**
+### 1. <mark style="color:blue;">**Diamant**</mark>
 
 * Minerai classique, utilisé pour crafter des outils et armures puissants.
 * Rare et recherché, principalement obtenu via le minage normal.
 
-#### 2. **Améthyste**
+### 2. <mark style="color:purple;">**Améthyste**</mark>
 
 * Minerai intermédiaire pour des outils et armes de bonne qualité (pelle, hache, pioche).
 * Disponible sous forme de lingots, et parfois dans certaines boxes.
 
-#### 3. **Rubis**
+#### 3. <mark style="color:red;">**Rubis**</mark>
 
 * Minerai avancé, permet de fabriquer armures et armes plus puissantes (casque, plastron, jambières, bottes, hache).
 * Obtention via minage et certaines boxes.
 
-#### 4. **Onyx**
+#### 4. <mark style="color:$danger;">**Onyx**</mark>
 
 * Minerai de haut niveau pour les équipements et crafts les plus puissants.
 * Utilisé pour les outils, armures, améliorations de factions et certains spawners.
 * Disponible sous forme de lingot ou fragment, dans les boxes rares et via certaines quêtes.
 
-#### 5. **Glace**
+### 5. <mark style="color:blue;">**Glace**</mark>
 
 * Ressource exclusive du minage glace (débloquée au prestige 30).
 * Sert pour certains crafts, décorations et événements.
 * Comprend aussi le **Quartz de Glace** et la **Glace brute** pour des recettes spécifiques.
 
-#### 6. **Feu**
+### 6. <mark style="color:orange;">**Feu**</mark>
 
 * Ressource exclusive du minage feu (débloquée au prestige 60).
 * Utilisée pour des armes et outils spéciaux, ainsi que pour les crafts rares.
 * Comprend également la **Roche volcanique** comme ressource craftable.
 
-#### 7. **Fragments et Brisures**
+### 7. <mark style="color:$warning;">**Fragments et Brisures**</mark>
 
 * Fragments de Rubis et Brisures d’Onyx : composants pour crafts avancés ou items haut niveau.
 * Obtenus via minage, boxes et certains événements.
@@ -56,5 +56,3 @@ coverY: 0
 * **Fragments et Brisures** complètent les crafts de haut niveau.
 
 ***
-
-Si tu veux, je peux maintenant te **faire un tableau complet avec minerai, type de minage, rareté, items craftables et box associées**, pour que ce soit directement exploitable dans le wiki. Veux‑tu que je fasse ça ?

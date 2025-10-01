@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/image wiki outpost_03573.jpg
 coverY: 0
 ---
 

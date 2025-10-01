@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/image wiki box commune_03573.jpg
+coverY: 0
+---
+
 # ♟️ Box Commune
 
 ***

@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/image wiki domination_03573.jpg
+coverY: 0
+---
+
 # 💪 Le Domination
 
 ***
