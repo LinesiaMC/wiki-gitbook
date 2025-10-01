@@ -13,39 +13,38 @@ C’est une box idéale pour les joueurs qui veulent dominer en PvP et sécurise
 
 #### 🏹 <mark style="color:purple;">Armes et équipements</mark>
 
-* Infinite Arrow → **10%**
-* Épée en Onyx (T5, Sharpness III, Aura II) → **8%**
-* Épée en Onyx → **1%**
-* Casque Rubis (Protection IV, Solidité III) → **10%**
-* Plastron Rubis (Protection IV, Solidité III) → **10%**
-* Jambières Rubis (Protection IV, Solidité III) → **10%**
-* Bottes Rubis (Protection IV, Solidité III) → **10%**
-* Hache en Améthyste → **10%**
-* Hache en Rubis → **8%**
-* Hache en Onyx → **2%**
+* Infinite Arrow → 6%
+* Épée en Onyx (T5, Sharpness III, Aura II) → 1%
+* Casque Rubis (Protection IV, Solidité III) → 8%
+* Plastron Rubis (Protection IV, Solidité III) → 8%
+* Jambières Rubis (Protection IV, Solidité III) → 8%
+* Bottes Rubis (Protection IV, Solidité III) → 8%
+* Hache en Améthyste → 8%
+* Hache en Rubis → 6%
+* Hache en Onyx → 2%
 
 #### 🛡️ <mark style="color:purple;">Défense et utilitaires</mark>
 
-* 32 Blocs Anti-Perle → **8%**
-* 64 Blocs Anti-Perle → **5%**
+* 32 Blocs Anti-Perle → 8%
+* 64 Blocs Anti-Perle → 5%
 
 #### 💎 <mark style="color:purple;">Gemmes et ressources rares</mark>
 
-* 3 Gemmes de Wither → **1%**
-* 4 Gemmes de Pigmen → **1%**
-* 5 Gemmes de Zombies → **1%**
-* Lingot d’Onyx → **1%**
-* 10 Roches Volcaniques → **5%**
+* 3 Gemmes de Wither → 3%
+* 4 Gemmes de Pigmen → 3%
+* 5 Gemmes de Zombies → 3%
+* Lingot d’Onyx → 2%
+* 10 Roches Volcaniques → 4%
 
-#### 🔑 <mark style="color:purple;">Clés et monnaies</mark>
+#### 🔑 <mark style="color:purple;">Clés, monnaies et équipements</mark>
 
-* 1 Clé Glace → **15%**
-* 15 000$ → **10%**
-* 600 Tokens → **10%**
-
-#### 🧪 <mark style="color:purple;">Bonus d’expérience</mark>
-
-* Potion Double XP (30 min, effet aléatoire) → **7%**
+* 1 Clé Glace → 3%
+* 15 000$ → 7%
+* 600 Tokens → 3%
+* Plastron De Glace : 1%
+* Jambières De Glace : 1%
+* Casque en Feu : 1%
+* Bottes en Feu : 1%
 
 ***
 

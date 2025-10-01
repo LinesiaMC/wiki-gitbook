@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🔮 Bienvenue sur Le Wiki De Linesia !](README.md)
+* [🔮 Le Wiki De Linesia !](README.md)
 
 ## 🧷 Informations générales
 
@@ -123,13 +123,14 @@
 * [🗽 Le Totem](evenements/le-totem.md)
 * [💲 L'AFK Money](evenements/lafk-money.md)
 
-## 🎁 Les Boxs
+## 💸 Les Boxs
 
 * [♟️ Box Commune](les-boxs/box-commune.md)
 * [🧑‍🌾 Box Farm](les-boxs/box-farm.md)
 * [❄️ Box Glace](les-boxs/box-glace.md)
 * [🔥 Box Feu](les-boxs/box-feu.md)
 * [👑 Box Légendaire](les-boxs/box-legendaire.md)
+* [🎁 Loot Box](les-boxs/loot-box.md)
 
 ## 🎓 Gameplay - Les Grades
 

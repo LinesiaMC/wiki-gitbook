@@ -55,11 +55,11 @@ Le Monolithe est bien plus qu’un simple claim :
 
 | Niveau | Spawners max |
 | ------ | ------------ |
-| 1      | 3            |
-| 2      | 5            |
-| 3      | 8            |
-| 4      | 10           |
-| 5      | 15           |
+| 1      | 1            |
+| 2      | 2            |
+| 3      | 4            |
+| 4      | 7            |
+| 5      | 10           |
 
 ***
 
@@ -70,7 +70,7 @@ Le Monolithe est bien plus qu’un simple claim :
 | 1      | Blé, Carotte               |
 | 2      | Betteraves, Patate         |
 | 3      | Citrouilles                |
-| 4      | Pastèques                  |
+| 4      | Pastèques, Cactus          |
 | 5      | Onyx (avec Terre enrichie) |
 
 ***
@@ -82,20 +82,8 @@ Le Monolithe est bien plus qu’un simple claim :
 | 1      | 10          |
 | 2      | 11          |
 | 3      | 13          |
-| 4      | 14          |
-| 5      | 15          |
-
-***
-
-#### 🤝 Alliances disponibles
-
-| Niveau | Alliances max |
-| ------ | ------------- |
-| 1      | 0             |
-| 2      | 1             |
-| 3      | 2             |
-| 4      | 3             |
-| 5      | 4             |
+| 4      | 15          |
+| 5      | 20          |
 
 ***
 
@@ -111,7 +99,7 @@ Le Monolithe est bien plus qu’un simple claim :
 
 ***
 
-#### 💣 Bombes nécessaires pour détruire le cœur
+#### 💣 Dynamites Améliorées nécessaire pour détruire le cœur
 
 | Niveau | Bombes requises |
 | ------ | --------------- |
@@ -123,7 +111,7 @@ Le Monolithe est bien plus qu’un simple claim :
 
 ***
 
-#### 🛡️ Résistance de la base (réduction dégâts subis)
+#### 🛡️ Résistance du Joueur dans le Claim (réduction dégâts subis)
 
 | Niveau | % de réduction |
 | ------ | -------------- |

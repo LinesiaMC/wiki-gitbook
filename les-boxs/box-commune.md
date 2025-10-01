@@ -22,35 +22,32 @@ Voici la liste complète des récompenses possibles avec leurs chances de drop :
 
 #### 🎲 <mark style="color:purple;">Clés</mark>
 
-* Clé Légendaire → **3%**
-* Clé Glace → **5%**
-* Clé Feu → **5%**
-* Clé Farm ×2 → **7%**
-* Clé Commune ×3 → **7%**
+* Clé Farm ×2 → 10%
+* Clé Commune ×3 → 10%
 
 #### 🛡️ <mark style="color:purple;">Armures Rubis</mark>
 
-* Casque Rubis → **10%**
-* Plastron Rubis → **10%**
-* Jambières Rubis → **10%**
-* Bottes Rubis → **10%**
+* Casque Rubis → 9%
+* Plastron Rubis → 9%
+* Jambières Rubis → 9%
+* Bottes Rubis → 9%
 
 #### 💎 <mark style="color:purple;">Ressources</mark>
 
-* 5 Brisures → **8%**
-* 1 Fragment → **5%**
-* 128 Améthystes → **(taux non précisé, à définir)**
-* 64 Rubis → **(taux non précisé, à définir)**
+* 5 Brisures → 6%
+* 1 Fragment → 4%
+* 128 Améthystes → 9%
+* 64 Rubis → 8%
 
 #### ⛏️ <mark style="color:purple;">Outils</mark>
 
-* Pelle Améthyste → **10%**
-* Pelle Rubis → **6%**
-* Pelle Onyx → **2%**
+* Pelle Améthyste → 8%
+* Pelle Rubis → 4%
+* Pelle Onyx → 2%&#x20;
 
 #### ⚔️ <mark style="color:purple;">Rares & Spéciaux</mark>
 
-* Gemme de Zombie → **1%**
+* Gemme de Zombie → 2%
 * Totem → **1%**
 
 ***

@@ -13,29 +13,41 @@ Elle combine puissance, rareté et utilitaires indispensables pour le PvP et le 
 
 #### 💎 <mark style="color:purple;">Gemmes et ressources rares</mark>
 
-* 1 Lingot d’Onyx → **5%**
-* 3 Fragments d’Onyx → **10%**
-* 20 Roches Volcaniques → **8%**
-* 20 Quartz de Glace → **8%**
-* 20 Glace Brutes → **8%**
+* 1 Lingot d’Onyx → 3%
+* 3 Fragments d’Onyx → 7%
+* 20 Roches Volcaniques → 5%
+* 20 Quartz de Glace → 5%
+* 20 Glace Brutes → 6%
+* 3 Gemme de Wither → 4%
 
 #### 🏹 <mark style="color:purple;">Armes et équipement</mark>
 
-* Arc Punch II → **15%**
-* Épée en Onyx → **2%**
-* Bottes en Onyx → **1%**
+* Arc Punch II → 10%
+* Épée en Onyx → 2%
+* Bottes en Onyx → 1%
+* Casque en Onyx : 1%
+* Plastron en Feu : 1%
+* Jambières en Feu : 1%
 
 #### 🔑 <mark style="color:purple;">Clés et monnaies</mark>
 
-* 2 Clés Légendaires → **10%**
-* 3 Clés Farm → **8%**
-* 1 Clé Feu + 1 Clé Glace → **5%**
-* 30 000$ → **6%**
+* 2 Clés Légendaires → 5%
+* 3 Clés Farm → 7%
+* 1 Clé Feu + 1 Clé Glace → 5%
+* 30 000$ → 10%
 
 #### 🛡️ <mark style="color:purple;">Items stratégiques et rares</mark>
 
-* Totem → **5%**
-* Spawner à Wither → **1%**
+* Totem → 1%
+* Spawner à Wither → 1%
+* 5 Chorus → 10%
+* 3 Dynamite + 1 Dynamite Puissante → 6%
+* Trophée Gold → 2%\
+
+
+#### 🧪 <mark style="color:purple;">Bonus d’expérience</mark>
+
+* Potion Double XP (1 Heure min, effet aléatoire) → **7%**
 
 ***
 
@@ -47,6 +59,6 @@ La **Box Légendaire** est **la plus exclusive et prestigieuse** :
 * Gemmes et ressources rares pour vos crafts les plus avancés.
 * Clés, totems et spawners uniques pour progresser plus rapidement et dominer le serveur.
 
-C’est la box idéale pour les joueurs qui veulent atteindre le **sommet de Linesia**, avec des items que très peu possèdent.
+C’est la box idéale pour les joueurs qui veulent atteindre le **sommet de&#x20;**<mark style="color:purple;">**Linesia**</mark>, avec des items que très peu possèdent.
 
 ***

@@ -15,39 +15,40 @@ Voici la liste complète des récompenses disponibles avec leurs probabilités :
 
 #### 🛡️ <mark style="color:purple;">Blocs stratégiques</mark>
 
-* 16 Blocs Anti-Perle → **10%**
-* 32 Blocs Anti-Perle → **8%**
-* 6 Terres Enrichies → **10%**
-* 12 Terres Enrichies → **8%**
-* 8 Élévators → **10%**
+* 16 Blocs Anti-Perle → 8%
+* 32 Blocs Anti-Perle → 5%
+* 6 Terres Enrichies → 9%
+* 12 Terres Enrichies → 6%
+* 8 Élévators → 7%
 
 #### 🎲 <mark style="color:purple;">Clés et objets spéciaux</mark>
 
-* 2 Clés Communes → **6%**
-* SeedPlanter → **10%**
+* 2 Clés Communes → 8%
+* SeedPlanter → 8%
 
 #### 💎 <mark style="color:purple;">Ressources rares</mark>
 
-* 3 Fragments d’Onyx → **5%**
+* 3 Fragments d’Onyx → 5%
+* 16 Blocs de Cactus → 1%
 
 #### ⛏️ <mark style="color:purple;">Outils de farm</mark>
 
-* Houe en Améthyste → **10%**
-* Houe en Rubis → **6%**
-* Houe en Onyx → **2%**
+* Houe en Améthyste → 9%
+* Houe en Rubis → 6%
+* Houe en Onyx → 2%
 
 #### 🐾 <mark style="color:purple;">Spawners et gemmes</mark>
 
-* Spawner à Zombie → **1%**
-* Gemme de Pigmen → **1%**
+* Spawner à Zombie → 2%
+* Gemme de Pigmen → 3%
 
 #### 💰 <mark style="color:purple;">Récompenses économiques</mark>
 
-* Cash de 7 500$ → **10%**
+* Cash de 7 500$ → 11%
 
 #### 🧪 <mark style="color:purple;">Bonus d’XP</mark>
 
-* Potion Double XP (1h, effet aléatoire) → **6%**
+* Potion Double XP (1h, effet aléatoire) → 10%
 
 ***
 

@@ -2,7 +2,7 @@
 
 ***
 
-## <mark style="color:purple;">L'Outposts sur Linesia – Guide complet</mark>
+## <mark style="color:purple;">L'Outpost sur Linesia – Guide complet</mark>
 
 Un **Outpost** est une zone stratégique où les factions et équipes s’affrontent pour en prendre le contrôle. Ces zones offrent un **gameplay PvP intense** et des **récompenses exclusives** aux joueurs capables de les conquérir et de les défendre.
 

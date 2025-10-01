@@ -1,20 +1,20 @@
 ---
-description: Retrouvez ici le sommaire du Wiki de Linesia
+description: Retrouvez ici le Sommaire du Wiki de Linesia
 ---
 
-# 🔮 Bienvenue sur Le Wiki De Linesia !
+# 🔮 Le Wiki De Linesia !
 
 Bienvenue sur le <mark style="color:purple;">**wiki officiel du serveur Linesia**</mark> ! Celui-ci vous sera utile tout au long de votre progression, et vous permettra une aventure sans accroc.
 
 Vous y retrouverez <mark style="color:purple;">**toutes les fonctionnalités du serveur**</mark>, ainsi que <mark style="color:purple;">**les informations utiles**</mark> liées à \
-<mark style="color:purple;">Linesia</mark> !\
+<mark style="color:purple;">Linesia</mark> ! Si vous y trouver des erreurs, des fautes d'orthographes ou que vous voulez qu'une informations y soit ajoutée, veuillez faire un ticket sur Discord, et mentionnez @ewzixx , Merci d'avance.\
 
 
 ***
 
-### 📂 **Catalogue et salons du Wiki**
+## 📂 <mark style="color:purple;">**Catalogue et salons du Wiki**</mark>
 
-## 1. Informations générales
+### 1. <mark style="color:purple;">Informations générales</mark>
 
 * [Règlement en jeu](informations-generales/reglement-in-game.md)
 * [Règlement Discord](informations-generales/reglement-discord.md)
@@ -23,7 +23,7 @@ Vous y retrouverez <mark style="color:purple;">**toutes les fonctionnalités du 
 * [Tutoriels](informations-generales/tutoriels/)
 * [Fonctionnalités du Bot Discord](informations-generales/fonctionnalites-bot-discord.md)
 
-## 2. GamePlay – Général
+### 2. <mark style="color:purple;">GamePlay – Général</mark>
 
 * [Bien débuter](gameplay-partie-generale/les-equipages/)
 * [Les Prestiges](gameplay-general/les-prestiges-dile.md)
@@ -38,7 +38,7 @@ Vous y retrouverez <mark style="color:purple;">**toutes les fonctionnalités du 
 * [Les Quêtes](gameplay-partie-generale/les-pets.md)
 * [Les Spawners](gameplay-general/spawners/)
 
-## 3. GamePlay – Objets
+### 3. <mark style="color:purple;">GamePlay – Objets</mark>
 
 * [Armures](group-1/armures/)
 * [Épées](group-1/epees/)
@@ -48,12 +48,12 @@ Vous y retrouverez <mark style="color:purple;">**toutes les fonctionnalités du 
 * [Objets spéciaux](gameplay-objets/objets-speciaux/)
 * [Blocs spéciaux](gameplay-objets/blocs-speciaux/)
 
-## 4. GamePlay – Autres
+### 4. <mark style="color:purple;">GamePlay – Autres</mark>
 
 * [Argent en jeu](gameplay-autres/argent-en-jeu.md)
 * [Cosmétiques](gameplay-autres/les-cosmetiques.md)
 
-## 5. Les Commandes
+### 5. <mark style="color:purple;">Les Commandes</mark>
 
 * [Faction](les-commandes/faction.md)
 * [Statistiques](les-commandes/statistiques.md)
@@ -64,7 +64,7 @@ Vous y retrouverez <mark style="color:purple;">**toutes les fonctionnalités du 
 * [Tokens](les-commandes/jetons.md)
 * [Paramètres](les-commandes/parametres-en-jeu.md)
 
-## 6. Les Boxs
+### 6. <mark style="color:purple;">Les Boxs</mark>
 
 * [Box Commune](les-boxs/box-commune.md)
 * [Box Farm](les-boxs/box-farm.md)
@@ -72,7 +72,7 @@ Vous y retrouverez <mark style="color:purple;">**toutes les fonctionnalités du 
 * [Box Feu](les-boxs/box-feu.md)
 * [Box Légendaire](les-boxs/box-legendaire.md)
 
-## 7. GamePlay – Grades
+### 7. <mark style="color:purple;">GamePlay – Grades</mark>
 
 * [Grade Premium](gameplay-partie-aventure/les-bateaux.md)
 * [Grade Elite](gameplay-les-grades/le-grade-elite.md)
