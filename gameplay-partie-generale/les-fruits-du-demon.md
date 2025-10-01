@@ -1,5 +1,7 @@
 ---
 description: Comment fonctionne le PvP sur Linesia ?
+cover: ../.gitbook/assets/image wiki le pvp_03573.jpg
+coverY: 0
 ---
 
 # 🔪 Le PvP

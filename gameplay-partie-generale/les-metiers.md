@@ -1,5 +1,7 @@
 ---
 description: La FarmZone est un endroit très utile pour votre développement sur Linesia.
+cover: ../.gitbook/assets/image wiki farmzone_03573.jpg
+coverY: 0
 ---
 
 # 🧑‍🌾 La FarmZone

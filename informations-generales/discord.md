@@ -1,5 +1,7 @@
 ---
 icon: discord
+cover: ../.gitbook/assets/image wiki rejoindre le discord_03573.jpg
+coverY: 0
 ---
 
 # Discord

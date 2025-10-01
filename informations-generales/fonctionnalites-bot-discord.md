@@ -1,5 +1,7 @@
 ---
 description: Ce bot est très utile pour vous faire de l'argent facilement sur Linesia !
+cover: ../.gitbook/assets/image wiki le bot discord_03573.jpg
+coverY: 0
 ---
 
 # 💲 Fonctionnalités Bot Discord

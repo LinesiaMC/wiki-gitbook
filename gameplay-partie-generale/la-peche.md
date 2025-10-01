@@ -1,5 +1,7 @@
 ---
 description: Retrouvez ici toutes les informations concernant la pêche
+cover: ../.gitbook/assets/image wiki la peche_03573.jpg
+coverY: 0
 ---
 
 # 🐠 La Pêche

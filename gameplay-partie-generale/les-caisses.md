@@ -1,5 +1,7 @@
 ---
 description: Optimisez vos sessions de Farm sur Linesia !
+cover: ../.gitbook/assets/image wiki le farming_03573.jpg
+coverY: 0
 ---
 
 # 🎭 Le Farming

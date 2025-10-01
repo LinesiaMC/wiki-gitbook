@@ -1,5 +1,7 @@
 ---
 description: Retrouvez ici toutes les informations concernant les pets
+cover: ../.gitbook/assets/image wiki les quetes_03573.jpg
+coverY: 0
 ---
 
 # 🧙‍♂️ Les Quêtes

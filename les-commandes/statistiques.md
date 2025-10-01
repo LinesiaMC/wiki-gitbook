@@ -1,5 +1,7 @@
 ---
 icon: chart-simple
+cover: ../.gitbook/assets/image wiki statistiques_03573.jpg
+coverY: 0
 ---
 
 # Statistiques

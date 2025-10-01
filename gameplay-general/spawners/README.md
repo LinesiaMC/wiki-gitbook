@@ -3,6 +3,8 @@ description: >-
   Les Spawners font apparaître entre 1 et 3 monstres toutes les 10 secondes, a
   partir de 1000 monstres stackés au même endroits ils disparaitront. Vous
   pouvez faire un chemin d'eau pour les optimiser.
+cover: ../../.gitbook/assets/image wiki les spawners_03573.jpg
+coverY: 0
 ---
 
 # 🔧 Spawners

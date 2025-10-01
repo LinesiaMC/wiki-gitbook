@@ -1,5 +1,7 @@
 ---
 description: Comment avoir un bon début sur Linesia ?
+cover: ../../.gitbook/assets/image wiki bien debuter_03573.jpg
+coverY: 0
 ---
 
 # 🎓 Bien débuter

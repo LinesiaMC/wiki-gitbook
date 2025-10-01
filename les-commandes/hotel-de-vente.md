@@ -1,5 +1,7 @@
 ---
 icon: sack-dollar
+cover: ../.gitbook/assets/image wiki le hdv_03573.jpg
+coverY: 0
 ---
 
 # Hôtel De Vente

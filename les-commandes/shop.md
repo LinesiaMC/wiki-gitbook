@@ -1,5 +1,7 @@
 ---
 icon: shop
+cover: ../.gitbook/assets/image wiki le shop_03573.png
+coverY: 0
 ---
 
 # Shop

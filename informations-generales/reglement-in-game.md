@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/IMG_0706.jpeg
+cover: ../.gitbook/assets/Illustration_sans_titre.jpeg
 coverY: 0
 layout:
   width: default

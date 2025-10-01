@@ -2,6 +2,8 @@
 description: >-
   Retrouvez ici toutes les questions les plus posées par la communauté de
   Linesia !
+cover: ../.gitbook/assets/image wiki faq_03573.jpg
+coverY: 0
 ---
 
 # ❔ Questions Récurrentes

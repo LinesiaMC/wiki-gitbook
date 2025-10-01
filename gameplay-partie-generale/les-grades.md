@@ -1,5 +1,7 @@
 ---
 description: Linesia comporte 3 minages
+cover: ../.gitbook/assets/image wiki le minage_03573.jpg
+coverY: 0
 ---
 
 # 💰 Le Minage

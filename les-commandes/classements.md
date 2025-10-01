@@ -1,5 +1,7 @@
 ---
 icon: medal
+cover: ../.gitbook/assets/image wiki classement_03573.jpg
+coverY: 0
 ---
 
 # Classements

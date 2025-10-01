@@ -1,5 +1,7 @@
 ---
 description: Retrouvez ici le règlement à respecter lorsque vous parlez sur le Discord
+cover: ../.gitbook/assets/image wiki reglement discord_03573.jpg
+coverY: 0
 ---
 
 # 🤚 Règlement Discord

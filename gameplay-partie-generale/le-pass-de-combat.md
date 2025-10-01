@@ -1,5 +1,7 @@
 ---
 description: 'Les utilités des Avants-Postes expliquées :'
+cover: ../.gitbook/assets/image wiki les ap_03573.jpg
+coverY: 0
 ---
 
 # 🗡️ Les Avants-Postes

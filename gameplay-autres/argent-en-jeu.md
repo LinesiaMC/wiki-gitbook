@@ -1,5 +1,7 @@
 ---
 icon: dollar-sign
+cover: ../.gitbook/assets/image wiki l'argent en jeu_03573.jpg
+coverY: 0
 ---
 
 # Argent en Jeu

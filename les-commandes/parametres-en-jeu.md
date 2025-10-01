@@ -1,5 +1,7 @@
 ---
 icon: gears
+cover: ../.gitbook/assets/image wiki LEs settings_03573.jpg
+coverY: 0
 ---
 
 # Paramètres en Jeu

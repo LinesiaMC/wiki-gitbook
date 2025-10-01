@@ -1,5 +1,7 @@
 ---
 icon: right-left
+cover: ../.gitbook/assets/image wiki Le cooldown_03573.jpg
+coverY: 0
 ---
 
 # Cooldown

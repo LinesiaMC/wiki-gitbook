@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/image wiki les cosmetiques_03573.jpg
+coverY: 0
+---
+
 # 🐲 Les Cosmétiques
 
 ***

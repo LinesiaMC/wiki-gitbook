@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/image wiki la décorations_03573.jpg
+coverY: 0
+---
+
 # 🗒️ La Decoration
 
 ***

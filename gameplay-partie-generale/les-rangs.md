@@ -1,5 +1,7 @@
 ---
 description: Voici les informations concernant Les nouveaux Raids de Factions sur Linesia !
+cover: ../.gitbook/assets/image wiki les raids des factions_03573.jpg
+coverY: 0
 ---
 
 # 🔱 Les Raids de Factions
